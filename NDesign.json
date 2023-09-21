@@ -194,6 +194,30 @@
       "4": {
         "value": "#FEAC4F",
         "type": "color"
+      },
+      "5": {
+        "value": "#FF961E",
+        "type": "color"
+      },
+      "6": {
+        "value": "#F28100",
+        "type": "color"
+      },
+      "7": {
+        "value": "#CA6D00",
+        "type": "color"
+      },
+      "8": {
+        "value": "#9A5300",
+        "type": "color"
+      },
+      "9": {
+        "value": "#6F3C00",
+        "type": "color"
+      },
+      "10": {
+        "value": "#442500",
+        "type": "color"
       }
     }
   },
