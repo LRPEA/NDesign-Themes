@@ -1,0 +1,206 @@
+{
+  "NDesign-Light": {
+    "palette-1": {
+      "1": {
+        "value": "#E6EBFE",
+        "type": "color"
+      },
+      "2": {
+        "value": "#C2CEFE",
+        "type": "color"
+      },
+      "3": {
+        "value": "#9DB1FD",
+        "type": "color"
+      },
+      "4": {
+        "value": "#7894FC",
+        "type": "color"
+      },
+      "5": {
+        "value": "#5377FB",
+        "type": "color"
+      },
+      "6": {
+        "value": "#2E5AFA",
+        "type": "color"
+      },
+      "7": {
+        "value": "#254ACD",
+        "type": "color"
+      },
+      "8": {
+        "value": "#1C39A0",
+        "type": "color"
+      },
+      "9": {
+        "value": "#132873",
+        "type": "color"
+      },
+      "10": {
+        "value": "#0A1746",
+        "type": "color"
+      }
+    },
+    "black": {
+      "value": "#000",
+      "type": "color"
+    },
+    "white": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "neutral": {
+      "1": {
+        "value": "#F9FAFB",
+        "type": "color"
+      },
+      "2": {
+        "value": "#F4F4F6",
+        "type": "color"
+      },
+      "3": {
+        "value": "#E8E9ED",
+        "type": "color"
+      },
+      "4": {
+        "value": "#DDDEE4",
+        "type": "color"
+      },
+      "5": {
+        "value": "#B2B7C7",
+        "type": "color"
+      },
+      "6": {
+        "value": "#8990A9",
+        "type": "color"
+      },
+      "7": {
+        "value": "#4B526C",
+        "type": "color"
+      },
+      "8": {
+        "value": "#14171F",
+        "type": "color"
+      }
+    },
+    "palette-5": {
+      "1": {
+        "value": "#DDF8E6",
+        "type": "color"
+      },
+      "2": {
+        "value": "#B3E5C4",
+        "type": "color"
+      },
+      "3": {
+        "value": "#8BD5A6",
+        "type": "color"
+      },
+      "4": {
+        "value": "#72CA92",
+        "type": "color"
+      },
+      "5": {
+        "value": "#4ABA73",
+        "type": "color"
+      },
+      "6": {
+        "value": "#22AA54",
+        "type": "color"
+      },
+      "7": {
+        "value": "#1C8D46",
+        "type": "color"
+      },
+      "8": {
+        "value": "#166F37",
+        "type": "color"
+      },
+      "9": {
+        "value": "#105128",
+        "type": "color"
+      },
+      "10": {
+        "value": "#0A3319",
+        "type": "color"
+      }
+    },
+    "text": {
+      "weakest": {
+        "value": "{neutral.5}",
+        "type": "color"
+      },
+      "weaker": {
+        "value": "{neutral.6}",
+        "type": "color"
+      },
+      "weak": {
+        "value": "{neutral.7}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{neutral.8}",
+        "type": "color"
+      },
+      "size": {
+        "14": {
+          "value": "14",
+          "type": "fontSizes"
+        },
+        "20": {
+          "value": "20",
+          "type": "fontSizes"
+        }
+      }
+    },
+    "btn": {
+      "primary": {
+        "bg": {
+          "value": "{base.primary}",
+          "type": "color"
+        },
+        "on": {
+          "value": "{base.primary-on}",
+          "type": "color"
+        }
+      }
+    },
+    "lineheight": {
+      "text": {
+        "value": "150%",
+        "type": "lineHeights"
+      }
+    },
+    "Text": {
+      "fontfamily": {
+        "value": "PingFang SC",
+        "type": "fontFamilies"
+      }
+    },
+    "palette-2": {
+      "1": {
+        "value": "#FFEDD9",
+        "type": "color"
+      },
+      "2": {
+        "value": "#FED7AA",
+        "type": "color"
+      },
+      "3": {
+        "value": "#FFC686",
+        "type": "color"
+      },
+      "4": {
+        "value": "#FEAC4F",
+        "type": "color"
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "NDesign-Light"
+    ]
+  }
+}
