@@ -238,18 +238,6 @@
         }
       }
     },
-    "btn": {
-      "primary": {
-        "bg": {
-          "value": "{base.primary}",
-          "type": "color"
-        },
-        "on": {
-          "value": "{base.primary-on}",
-          "type": "color"
-        }
-      }
-    },
     "lineheight": {
       "text": {
         "value": "150%",
@@ -261,6 +249,10 @@
         "value": "PingFang SC",
         "type": "fontFamilies"
       }
+    },
+    "primary": {
+      "value": "{palette-1.6}",
+      "type": "color"
     }
   },
   "$themes": [],
