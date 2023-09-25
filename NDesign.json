@@ -419,31 +419,31 @@
           "type": "color"
         },
         "2": {
-          "value": "rgba(0, 0, 0, 0.04",
+          "value": "rgba(0, 0, 0, 0.04)",
           "type": "color"
         },
         "3": {
-          "value": "rgba(0, 0, 0, 0.08",
+          "value": "rgba(0, 0, 0, 0.08)",
           "type": "color"
         },
         "4": {
-          "value": "rgba(0, 0, 0, 0.12",
+          "value": "rgba(0, 0, 0, 0.12)",
           "type": "color"
         },
         "5": {
-          "value": "rgba(0, 0, 0, 0.26",
+          "value": "rgba(0, 0, 0, 0.26)",
           "type": "color"
         },
         "6": {
-          "value": "rgba(0, 0, 0, 0.4",
+          "value": "rgba(0, 0, 0, 0.4)",
           "type": "color"
         },
         "7": {
-          "value": "rgba(0, 0, 0, 0.64",
+          "value": "rgba(0, 0, 0, 0.64)",
           "type": "color"
         },
         "8": {
-          "value": "rgba(0, 0, 0, 0.9",
+          "value": "rgba(0, 0, 0, 0.9)",
           "type": "color"
         }
       },
@@ -453,31 +453,31 @@
           "type": "color"
         },
         "2": {
-          "value": "rgba(255, 255, 255, 0.04",
+          "value": "rgba(255, 255, 255, 0.04)",
           "type": "color"
         },
         "3": {
-          "value": "rgba(255, 255, 255, 0.08",
+          "value": "rgba(255, 255, 255, 0.08)",
           "type": "color"
         },
         "4": {
-          "value": "rgba(255, 255, 255, 0.12",
+          "value": "rgba(255, 255, 255, 0.12)",
           "type": "color"
         },
         "5": {
-          "value": "rgba(255, 255, 255, 0.26",
+          "value": "rgba(255, 255, 255, 0.26)",
           "type": "color"
         },
         "6": {
-          "value": "rgba(255, 255, 255,  0.4",
+          "value": "rgba(255, 255, 255, 0.4)",
           "type": "color"
         },
         "7": {
-          "value": "rgba(255, 255, 255,  0.64",
+          "value": "rgba(255, 255, 255, 0.64)",
           "type": "color"
         },
         "8": {
-          "value": "rgba(255, 255, 255,  0.9",
+          "value": "rgba(255, 255, 255, 0.9)",
           "type": "color"
         }
       }
