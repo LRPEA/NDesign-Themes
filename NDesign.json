@@ -1,14 +1,24 @@
 {
   "NDesign-Light": {
-    "palette-1": {
+    "palette": {
       "1": {
-        "value": "#FEE8E7",
-        "type": "color"
+        "1": {
+          "value": "#FEE8E7",
+          "type": "color"
+        },
+        "2": {
+          "value": "#FEC3BD",
+          "type": "color"
+        }
       },
-      "2": {
-        "value": "#FEC3BD",
-        "type": "color"
-      },
+      "neutral": {
+        "1": {
+          "value": "#F9FAFB",
+          "type": "color"
+        }
+      }
+    },
+    "palette-1": {
       "3": {
         "value": "#FCA59E",
         "type": "color"
@@ -379,10 +389,6 @@
       }
     },
     "neutral": {
-      "1": {
-        "value": "#F9FAFB",
-        "type": "color"
-      },
       "2": {
         "value": "#F4F4F6",
         "type": "color"
@@ -421,7 +427,7 @@
       "type": "color"
     },
     "primary": {
-      "value": "{palette-1.6}",
+      "value": "{palette-7.6}",
       "type": "color"
     },
     "text": {
