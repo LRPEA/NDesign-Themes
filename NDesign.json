@@ -548,7 +548,7 @@
         },
         "on": {
           "bold": {
-            "value": "{primary}",
+            "value": "{white}",
             "type": "color"
           },
           "subtle": {
