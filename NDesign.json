@@ -533,6 +533,34 @@
         "value": "PingFang SC",
         "type": "fontFamilies"
       }
+    },
+    "btn": {
+      "primary": {
+        "bg": {
+          "bold": {
+            "value": "{primary}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{palette.7.2}",
+            "type": "color"
+          }
+        },
+        "on": {
+          "bold": {
+            "value": "{primary}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{primary}",
+            "type": "color"
+          },
+          "common": {
+            "value": "{primary}",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "$themes": [],
