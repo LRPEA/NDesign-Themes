@@ -413,7 +413,11 @@
           "type": "color"
         }
       },
-      "alpha-black": {
+      "black": {
+        "0": {
+          "value": "#000000",
+          "type": "color"
+        },
         "1": {
           "value": "rgba(0, 0, 0, 0.02)",
           "type": "color"
@@ -447,7 +451,11 @@
           "type": "color"
         }
       },
-      "alpha-white": {
+      "white": {
+        "0": {
+          "value": "#ffffff",
+          "type": "color"
+        },
         "1": {
           "value": "rgba(255, 255, 255, 0.02)",
           "type": "color"
@@ -482,17 +490,35 @@
         }
       }
     },
-    "black": {
-      "value": "#000",
-      "type": "color"
-    },
-    "white": {
-      "value": "#ffffff",
-      "type": "color"
-    },
-    "primary": {
-      "value": "{palette.7.6}",
-      "type": "color"
+    "roles": {
+      "primary": {
+        "value": "{palette.7.6}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{palette.7.6}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{palette.7.6}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{palette.5.6}",
+        "type": "color"
+      },
+      "danger": {
+        "value": "{palette.1.5}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{palette.2.5}",
+        "type": "color"
+      },
+      "info": {
+        "value": "{palette.6.6}",
+        "type": "color"
+      }
     },
     "text": {
       "default": {
@@ -558,7 +584,7 @@
       "primary": {
         "bg": {
           "bold": {
-            "value": "{primary}",
+            "value": "{roles.primary}",
             "type": "color"
           },
           "subtle": {
@@ -568,15 +594,15 @@
         },
         "on": {
           "bold": {
-            "value": "{white}",
+            "value": "{palette.white.0}",
             "type": "color"
           },
           "subtle": {
-            "value": "{primary}",
+            "value": "{roles.primary}",
             "type": "color"
           },
           "common": {
-            "value": "{primary}",
+            "value": "{roles.primary}",
             "type": "color"
           }
         }
