@@ -499,16 +499,16 @@
         "value": "{palette.neutral.8}",
         "type": "color"
       },
-      "weakest": {
-        "value": "{palette.neutral.5}",
+      "weak": {
+        "value": "{palette.neutral.7}",
         "type": "color"
       },
       "weaker": {
         "value": "{palette.neutral.6}",
         "type": "color"
       },
-      "weak": {
-        "value": "{palette.neutral.7}",
+      "weakest": {
+        "value": "{palette.neutral.5}",
         "type": "color"
       },
       "size": {
