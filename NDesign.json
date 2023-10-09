@@ -537,16 +537,6 @@
         "value": "{palette.neutral.5}",
         "type": "color"
       },
-      "size": {
-        "14": {
-          "value": "14",
-          "type": "fontSizes"
-        },
-        "20": {
-          "value": "20",
-          "type": "fontSizes"
-        }
-      },
       "accent": {
         "value": "{palette.7.6}",
         "type": "color"
@@ -566,6 +556,20 @@
       "info": {
         "value": "{palette.6.6}",
         "type": "color"
+      }
+    },
+    "body": {
+      "s": {
+        "value": "14",
+        "type": "fontSizes"
+      },
+      "m": {
+        "value": "14",
+        "type": "fontSizes"
+      },
+      "l": {
+        "value": "16",
+        "type": "fontSizes"
       }
     },
     "btn": {
@@ -635,6 +639,48 @@
     "loose": {
       "value": "180%",
       "type": "lineHeights"
+    },
+    "title": {
+      "s": {
+        "value": "14",
+        "type": "fontSizes"
+      },
+      "m": {
+        "value": "16",
+        "type": "fontSizes"
+      },
+      "l": {
+        "value": "18",
+        "type": "fontSizes"
+      }
+    },
+    "headline": {
+      "s": {
+        "value": "20",
+        "type": "fontSizes"
+      },
+      "m": {
+        "value": "24",
+        "type": "fontSizes"
+      },
+      "l": {
+        "value": "28",
+        "type": "fontSizes"
+      }
+    },
+    "display": {
+      "s": {
+        "value": "36",
+        "type": "fontSizes"
+      },
+      "m": {
+        "value": "48",
+        "type": "fontSizes"
+      },
+      "l": {
+        "value": "64",
+        "type": "fontSizes"
+      }
     }
   },
   "$themes": [],
