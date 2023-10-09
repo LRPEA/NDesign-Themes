@@ -495,6 +495,10 @@
       "type": "color"
     },
     "text": {
+      "default": {
+        "value": "{palette.neutral.8}",
+        "type": "color"
+      },
       "weakest": {
         "value": "{palette.neutral.5}",
         "type": "color"
@@ -507,10 +511,6 @@
         "value": "{palette.neutral.7}",
         "type": "color"
       },
-      "default": {
-        "value": "{palette.neutral.8}",
-        "type": "color"
-      },
       "size": {
         "14": {
           "value": "14",
@@ -520,6 +520,26 @@
           "value": "20",
           "type": "fontSizes"
         }
+      },
+      "accent": {
+        "value": "{palette.7.6}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{palette.5.6}",
+        "type": "color"
+      },
+      "danger": {
+        "value": "{palette.1.6}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{palette.2.6}",
+        "type": "color"
+      },
+      "info": {
+        "value": "{palette.6.6}",
+        "type": "color"
       }
     },
     "lineheight": {
