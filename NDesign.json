@@ -568,18 +568,6 @@
         "type": "color"
       }
     },
-    "lineheight": {
-      "text": {
-        "value": "150%",
-        "type": "lineHeights"
-      }
-    },
-    "font": {
-      "fontfamily": {
-        "value": "PingFang SC",
-        "type": "fontFamilies"
-      }
-    },
     "btn": {
       "primary": {
         "bg": {
@@ -607,6 +595,46 @@
           }
         }
       }
+    },
+    "sc": {
+      "default": {
+        "value": "PingFang SC",
+        "type": "fontFamilies"
+      },
+      "emphasized": {
+        "value": "{sc.default}",
+        "type": "fontFamilies"
+      },
+      "weakened": {
+        "value": "{sc.default}",
+        "type": "fontFamilies"
+      }
+    },
+    "en": {
+      "default": {
+        "value": "SF Pro Text",
+        "type": "fontFamilies"
+      },
+      "emphasized": {
+        "value": "{en.default}",
+        "type": "fontFamilies"
+      },
+      "weakened": {
+        "value": "{en.default}",
+        "type": "fontFamilies"
+      }
+    },
+    "compact": {
+      "value": "120%",
+      "type": "lineHeights"
+    },
+    "default": {
+      "value": "150%",
+      "type": "lineHeights"
+    },
+    "loose": {
+      "value": "180%",
+      "type": "lineHeights"
     }
   },
   "$themes": [],
