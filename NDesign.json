@@ -740,7 +740,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{palette.7.3}",
+            "value": "{palette.7.2}",
             "type": "color"
           }
         },
