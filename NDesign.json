@@ -794,7 +794,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{palette.7.4}",
+            "value": "{palette.7.3}",
             "type": "color"
           }
         }
