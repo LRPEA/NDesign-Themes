@@ -681,6 +681,42 @@
         "value": "64",
         "type": "fontSizes"
       }
+    },
+    "width": {
+      "default": {
+        "value": "1",
+        "type": "borderWidth"
+      }
+    },
+    "radius": {
+      "zero": {
+        "value": "0",
+        "type": "borderRadius"
+      },
+      "s": {
+        "value": "2",
+        "type": "borderRadius"
+      },
+      "m": {
+        "value": "4",
+        "type": "borderRadius"
+      },
+      "l": {
+        "value": "8",
+        "type": "borderRadius"
+      },
+      "xl": {
+        "value": "12",
+        "type": "borderRadius"
+      },
+      "circle": {
+        "value": "999",
+        "type": "borderRadius"
+      },
+      "default": {
+        "value": "{radius.m}",
+        "type": "borderRadius"
+      }
     }
   },
   "$themes": [],
