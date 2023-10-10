@@ -761,6 +761,42 @@
             "value": "{palette.white.0}",
             "type": "color"
           }
+        },
+        "subtle": {
+          "enabled": {
+            "value": "{palette.7.1}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{palette.7.2}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{palette.7.3}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{palette.7.1}",
+            "type": "color"
+          }
+        },
+        "subtle-on": {
+          "enabled": {
+            "value": "{palette.7.6}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{palette.7.6}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{palette.7.6}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{palette.7.4}",
+            "type": "color"
+          }
         }
       }
     }
