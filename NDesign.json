@@ -798,6 +798,20 @@
             "type": "color"
           }
         }
+      },
+      "default": {
+        "enabled": {
+          "value": "{bg.page.default}",
+          "type": "color"
+        }
+      }
+    },
+    "border": {
+      "primary": {
+        "enabled": {
+          "value": "{palette.7.6}",
+          "type": "color"
+        }
       }
     }
   },
