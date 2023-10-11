@@ -537,9 +537,23 @@
         "value": "{palette.neutral.5}",
         "type": "color"
       },
-      "accent": {
-        "value": "{palette.7.6}",
-        "type": "color"
+      "primary": {
+        "enabled": {
+          "value": "{primary.bold.enabled}",
+          "type": "color"
+        },
+        "hovered": {
+          "value": "{primary.bold.hovered}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{primary.bold.pressed}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{text.weaker}",
+          "type": "color"
+        }
       },
       "success": {
         "value": "{palette.5.6}",
