@@ -1,7 +1,7 @@
 {
   "NDesign-Light": {
     "palette": {
-      "1": {
+      "error": {
         "1": {
           "value": "#FEE8E7",
           "type": "color"
@@ -43,7 +43,7 @@
           "type": "color"
         }
       },
-      "2": {
+      "warning": {
         "1": {
           "value": "#FFEDD9",
           "type": "color"
@@ -85,7 +85,7 @@
           "type": "color"
         }
       },
-      "3": {
+      "others-1": {
         "1": {
           "value": "#FAF2D7",
           "type": "color"
@@ -127,7 +127,7 @@
           "type": "color"
         }
       },
-      "4": {
+      "others-2": {
         "1": {
           "value": "#EDF5DC",
           "type": "color"
@@ -169,7 +169,7 @@
           "type": "color"
         }
       },
-      "5": {
+      "success": {
         "1": {
           "value": "#DDF8E6",
           "type": "color"
@@ -211,7 +211,7 @@
           "type": "color"
         }
       },
-      "6": {
+      "info": {
         "1": {
           "value": "#E6F6FE",
           "type": "color"
@@ -253,7 +253,7 @@
           "type": "color"
         }
       },
-      "7": {
+      "primary": {
         "1": {
           "value": "#E6EBFE",
           "type": "color"
@@ -295,7 +295,7 @@
           "type": "color"
         }
       },
-      "8": {
+      "others-3": {
         "1": {
           "value": "#F4E8FD",
           "type": "color"
@@ -337,7 +337,7 @@
           "type": "color"
         }
       },
-      "9": {
+      "others-4": {
         "1": {
           "value": "#FAE6F4",
           "type": "color"
@@ -490,36 +490,6 @@
         }
       }
     },
-    "roles": {
-      "primary": {
-        "value": "{palette.7.6}",
-        "type": "color"
-      },
-      "secondary": {
-        "value": "{palette.7.6}",
-        "type": "color"
-      },
-      "accent": {
-        "value": "{palette.7.6}",
-        "type": "color"
-      },
-      "success": {
-        "value": "{palette.5.6}",
-        "type": "color"
-      },
-      "danger": {
-        "value": "{palette.1.5}",
-        "type": "color"
-      },
-      "warning": {
-        "value": "{palette.2.5}",
-        "type": "color"
-      },
-      "info": {
-        "value": "{palette.6.6}",
-        "type": "color"
-      }
-    },
     "text": {
       "default": {
         "value": "{palette.neutral.8}",
@@ -538,37 +508,77 @@
         "type": "color"
       },
       "primary": {
-        "enabled": {
-          "value": "{primary.bold.enabled}",
-          "type": "color"
-        },
+        "value": "{palette.primary.6}",
+        "type": "color",
         "hovered": {
-          "value": "{palette.7.7}",
+          "value": "{palette.primary.5}",
           "type": "color"
         },
         "pressed": {
-          "value": "{palette.7.7}",
+          "value": "{palette.primary.7}",
           "type": "color"
         },
-        "disabled": {
-          "value": "{text.weakest}",
+        "actived": {
+          "value": "{palette.primary.7}",
           "type": "color"
         }
       },
       "success": {
-        "value": "{palette.5.6}",
-        "type": "color"
+        "value": "{palette.success.6}",
+        "type": "color",
+        "hovered": {
+          "value": "{palette.success.5}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{palette.success.7}",
+          "type": "color"
+        },
+        "actived": {
+          "value": "{palette.success.7}",
+          "type": "color"
+        }
       },
       "danger": {
-        "value": "{palette.1.6}",
-        "type": "color"
+        "default": {
+          "value": "{palette.error.6}",
+          "type": "color"
+        },
+        "hovered": {
+          "value": "{palette.error.5}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{palette.error.7}",
+          "type": "color"
+        },
+        "actived": {
+          "value": "{palette.error.7}",
+          "type": "color"
+        }
       },
       "warning": {
-        "value": "{palette.2.6}",
-        "type": "color"
+        "value": "{palette.warning.6}",
+        "type": "color",
+        "hovered": {
+          "value": "{palette.warning.5}",
+          "type": "color"
+        }
       },
       "info": {
-        "value": "{palette.6.6}",
+        "value": "{palette.info.6}",
+        "type": "color"
+      },
+      "hovered": {
+        "value": "{palette.primary.5}",
+        "type": "color"
+      },
+      "pressed": {
+        "value": "{palette.primary.7}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{text.weakest}",
         "type": "color"
       }
     },
@@ -716,10 +726,14 @@
       "borderless": {
         "value": "0",
         "type": "borderWidth"
+      },
+      "focused": {
+        "value": "{width.thick}",
+        "type": "borderWidth"
       }
     },
     "radius": {
-      "zero": {
+      "0": {
         "value": "0",
         "type": "borderRadius"
       },
@@ -765,19 +779,19 @@
     "primary": {
       "bold": {
         "enabled": {
-          "value": "{palette.7.6}",
+          "value": "{palette.primary.6}",
           "type": "color"
         },
         "hovered": {
-          "value": "{palette.7.5}",
+          "value": "{palette.primary.5}",
           "type": "color"
         },
         "pressed": {
-          "value": "{palette.7.7}",
+          "value": "{palette.primary.7}",
           "type": "color"
         },
         "disabled": {
-          "value": "{palette.7.2}",
+          "value": "{palette.primary.2}",
           "type": "color"
         }
       },
@@ -801,37 +815,37 @@
       },
       "subtle": {
         "enabled": {
-          "value": "{palette.7.1}",
+          "value": "{palette.primary.1}",
           "type": "color"
         },
         "hovered": {
-          "value": "{palette.7.2}",
+          "value": "{palette.primary.2}",
           "type": "color"
         },
         "pressed": {
-          "value": "{palette.7.3}",
+          "value": "{palette.primary.3}",
           "type": "color"
         },
         "disabled": {
-          "value": "{palette.7.1}",
+          "value": "{palette.primary.1}",
           "type": "color"
         }
       },
       "subtle-on": {
         "enabled": {
-          "value": "{palette.7.6}",
+          "value": "{palette.primary.6}",
           "type": "color"
         },
         "hovered": {
-          "value": "{palette.7.6}",
+          "value": "{palette.primary.6}",
           "type": "color"
         },
         "pressed": {
-          "value": "{palette.7.6}",
+          "value": "{palette.primary.6}",
           "type": "color"
         },
         "disabled": {
-          "value": "{palette.7.3}",
+          "value": "{palette.primary.3}",
           "type": "color"
         }
       }
