@@ -492,15 +492,15 @@
     },
     "roles": {
       "primary": {
-        "value": "{palette.7.6}",
+        "value": "{palette.8.6}",
         "type": "color"
       },
       "secondary": {
-        "value": "{palette.7.6}",
+        "value": "{palette.8.6}",
         "type": "color"
       },
       "accent": {
-        "value": "{palette.7.6}",
+        "value": "{palette.8.6}",
         "type": "color"
       },
       "success": {
@@ -543,11 +543,11 @@
           "type": "color"
         },
         "hovered": {
-          "value": "{palette.7.7}",
+          "value": "{palette.8.7}",
           "type": "color"
         },
         "pressed": {
-          "value": "{palette.7.7}",
+          "value": "{palette.8.7}",
           "type": "color"
         },
         "disabled": {
@@ -765,19 +765,19 @@
     "primary": {
       "bold": {
         "enabled": {
-          "value": "{palette.7.6}",
+          "value": "{palette.8.6}",
           "type": "color"
         },
         "hovered": {
-          "value": "{palette.7.5}",
+          "value": "{palette.8.5}",
           "type": "color"
         },
         "pressed": {
-          "value": "{palette.7.7}",
+          "value": "{palette.8.7}",
           "type": "color"
         },
         "disabled": {
-          "value": "{palette.7.2}",
+          "value": "{palette.8.2}",
           "type": "color"
         }
       },
@@ -801,37 +801,37 @@
       },
       "subtle": {
         "enabled": {
-          "value": "{palette.7.1}",
+          "value": "{palette.8.1}",
           "type": "color"
         },
         "hovered": {
-          "value": "{palette.7.2}",
+          "value": "{palette.8.2}",
           "type": "color"
         },
         "pressed": {
-          "value": "{palette.7.3}",
+          "value": "{palette.8.3}",
           "type": "color"
         },
         "disabled": {
-          "value": "{palette.7.1}",
+          "value": "{palette.8.1}",
           "type": "color"
         }
       },
       "subtle-on": {
         "enabled": {
-          "value": "{palette.7.6}",
+          "value": "{palette.8.6}",
           "type": "color"
         },
         "hovered": {
-          "value": "{palette.7.6}",
+          "value": "{palette.8.6}",
           "type": "color"
         },
         "pressed": {
-          "value": "{palette.7.6}",
+          "value": "{palette.8.6}",
           "type": "color"
         },
         "disabled": {
-          "value": "{palette.7.3}",
+          "value": "{palette.8.3}",
           "type": "color"
         }
       }
