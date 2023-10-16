@@ -905,6 +905,26 @@
         "value": "{win-en.default}",
         "type": "fontFamilies"
       }
+    },
+    "apple": {
+      "default": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "emphasized": {
+        "value": "Semibold",
+        "type": "fontWeights"
+      }
+    },
+    "win": {
+      "default": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "emphasized": {
+        "value": "Bold",
+        "type": "fontWeights"
+      }
     }
   },
   "$themes": [],
