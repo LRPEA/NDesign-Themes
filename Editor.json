@@ -1,5 +1,5 @@
 {
-  "NDesign-Light": {
+  "Editor-Dark": {
     "palette": {
       "1": {
         "1": {
@@ -397,19 +397,19 @@
           "type": "color"
         },
         "5": {
-          "value": "#B2B7C7",
+          "value": "rgba(255, 255, 255, 0.28)",
           "type": "color"
         },
         "6": {
-          "value": "#8990A9",
+          "value": "rgba(255, 255, 255, 0.42)",
           "type": "color"
         },
         "7": {
-          "value": "#4B526C",
+          "value": "rgba(255, 255, 255, 0.68)",
           "type": "color"
         },
         "8": {
-          "value": "#14171F",
+          "value": "#ffffff",
           "type": "color"
         }
       },
@@ -882,7 +882,7 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "NDesign-Light"
+      "Editor-Dark"
     ]
   }
 }
