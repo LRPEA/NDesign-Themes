@@ -934,7 +934,11 @@
               "fontFamily": "{win-sc.default}",
               "fontWeight": "{win.default}",
               "lineHeight": "{default}",
-              "fontSize": "{body.m}"
+              "fontSize": "{body.m}",
+              "paragraphSpacing": "0",
+              "paragraphIndent": "0",
+              "letterSpacing": "0",
+              "textDecoration": "none"
             },
             "type": "typography"
           },
