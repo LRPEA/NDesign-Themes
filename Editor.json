@@ -622,31 +622,31 @@
         }
       }
     },
-    "sc": {
+    "apple-sc": {
       "default": {
         "value": "PingFang SC",
         "type": "fontFamilies"
       },
       "emphasized": {
-        "value": "{sc.default}",
+        "value": "{apple-sc.default}",
         "type": "fontFamilies"
       },
       "weakened": {
-        "value": "{sc.default}",
+        "value": "{apple-sc.default}",
         "type": "fontFamilies"
       }
     },
-    "en": {
+    "apple-en": {
       "default": {
         "value": "SF Pro Text",
         "type": "fontFamilies"
       },
       "emphasized": {
-        "value": "{en.default}",
+        "value": "{apple-en.default}",
         "type": "fontFamilies"
       },
       "weakened": {
-        "value": "{en.default}",
+        "value": "{apple-en.default}",
         "type": "fontFamilies"
       }
     },
@@ -876,6 +876,34 @@
       "light": {
         "value": "{palette.black.3}",
         "type": "color"
+      }
+    },
+    "win-sc": {
+      "default": {
+        "value": "Microsoft YaHei UI",
+        "type": "fontFamilies"
+      },
+      "emphasized": {
+        "value": "{win-sc.default}",
+        "type": "fontFamilies"
+      },
+      "weakened": {
+        "value": "{win-sc.default}",
+        "type": "fontFamilies"
+      }
+    },
+    "win-en": {
+      "default": {
+        "value": "Segoe UI",
+        "type": "fontFamilies"
+      },
+      "emphasized": {
+        "value": "{win-en.default}",
+        "type": "fontFamilies"
+      },
+      "weakened": {
+        "value": "{win-en.default}",
+        "type": "fontFamilies"
       }
     }
   },
