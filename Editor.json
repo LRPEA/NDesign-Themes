@@ -381,31 +381,31 @@
       },
       "neutral": {
         "1": {
-          "value": "#F9FAFB",
+          "value": "#16171D",
           "type": "color"
         },
         "2": {
-          "value": "#F4F4F6",
+          "value": "#22232B",
           "type": "color"
         },
         "3": {
-          "value": "#E8E9ED",
+          "value": "#2D2F39",
           "type": "color"
         },
         "4": {
-          "value": "#DDDEE4",
+          "value": "#373944",
           "type": "color"
         },
         "5": {
-          "value": "rgba(255, 255, 255, 0.28)",
+          "value": "#4A4C59",
           "type": "color"
         },
         "6": {
-          "value": "rgba(255, 255, 255, 0.42)",
+          "value": "#646672",
           "type": "color"
         },
         "7": {
-          "value": "rgba(255, 255, 255, 0.68)",
+          "value": "#A8AAB2",
           "type": "color"
         },
         "8": {
@@ -751,7 +751,15 @@
     "bg": {
       "page": {
         "default": {
-          "value": "{palette.white.0}",
+          "value": "{palette.neutral.1}",
+          "type": "color"
+        },
+        "container-1": {
+          "value": "{palette.neutral.2}",
+          "type": "color"
+        },
+        "container-2": {
+          "value": "{palette.neutral.3}",
           "type": "color"
         }
       },
