@@ -925,6 +925,40 @@
         "value": "Bold",
         "type": "fontWeights"
       }
+    },
+    "Typography": {
+      "body": {
+        "m": {
+          "default": {
+            "value": {
+              "fontFamily": "{win-sc.default}",
+              "fontWeight": "{win.default}",
+              "lineHeight": "{default}",
+              "fontSize": "{body.m}"
+            },
+            "type": "typography"
+          },
+          "emphasized": {
+            "value": {
+              "fontFamily": "{win-sc.default}",
+              "fontWeight": "{win.emphasized}",
+              "lineHeight": "{default}",
+              "fontSize": "{body.m}"
+            },
+            "type": "typography"
+          },
+          "link": {
+            "value": {
+              "fontFamily": "{win-sc.default}",
+              "fontWeight": "{win.default}",
+              "lineHeight": "{default}",
+              "fontSize": "{body.m}",
+              "textDecoration": "Underline"
+            },
+            "type": "typography"
+          }
+        }
+      }
     }
   },
   "$themes": [],
