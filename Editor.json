@@ -542,22 +542,20 @@
         "type": "color"
       },
       "primary": {
-        "enabled": {
-          "value": "{palette.primary.5}",
-          "type": "color"
-        },
-        "hovered": {
-          "value": "{palette.primary.4}",
-          "type": "color"
-        },
-        "pressed": {
-          "value": "{palette.primary.6}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{text.weakest}",
-          "type": "color"
-        }
+        "value": "{palette.primary.5}",
+        "type": "color"
+      },
+      "hovered": {
+        "value": "{palette.primary.4}",
+        "type": "color"
+      },
+      "pressed": {
+        "value": "{palette.primary.6}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{text.weakest}",
+        "type": "color"
       },
       "success": {
         "value": "{palette.success.6}",
