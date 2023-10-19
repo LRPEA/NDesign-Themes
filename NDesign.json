@@ -589,17 +589,53 @@
     "btn": {
       "primary": {
         "bg": {
-          "dark": {
-            "value": "{primary.bold.enabled}",
-            "type": "color"
+          "bold": {
+            "enabled": {
+              "value": "{primary.bold.enabled}",
+              "type": "color"
+            },
+            "hovered": {
+              "value": "{primary.bold.hovered}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{primary.bold.pressed}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{primary.bold.disabled}",
+              "type": "color"
+            }
           },
           "subtle": {
-            "value": "{primary.subtle.enabled}",
-            "type": "color"
+            "enabled": {
+              "value": "{primary.subtle.enabled}",
+              "type": "color"
+            }
           },
-          "lightest": {
-            "value": "{bg.page.default}",
-            "type": "color"
+          "filless": {
+            "hovered": {
+              "value": "{palette.primary.1}",
+              "type": "color"
+            }
+          },
+          "bold-on": {
+            "enabled": {
+              "value": "{primary.bold-on.enabled}",
+              "type": "color"
+            },
+            "hovered": {
+              "value": "{primary.bold-on.hovered}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{primary.bold-on.pressed}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{primary.bold-on.disabled}",
+              "type": "color"
+            }
           }
         },
         "on": {
