@@ -1,7 +1,7 @@
 {
   "NDesign-Light": {
     "palette": {
-      "error": {
+      "danger": {
         "1": {
           "value": "#FEE8E7",
           "type": "color"
@@ -767,11 +767,13 @@
         "default": {
           "value": "{palette.white.0}",
           "type": "color"
-        }
-      },
-      "default": {
-        "enabled": {
-          "value": "{bg.page.default}",
+        },
+        "container-1": {
+          "value": "{palette.neutral.2}",
+          "type": "color"
+        },
+        "container-2": {
+          "value": "{palette.neutral.3}",
           "type": "color"
         }
       }
