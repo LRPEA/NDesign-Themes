@@ -1,7 +1,7 @@
 {
   "Editor-Dark": {
     "palette": {
-      "error": {
+      "danger": {
         "1": {
           "value": "#FEE8E7",
           "type": "color"
@@ -512,7 +512,7 @@
         "type": "color"
       },
       "danger": {
-        "value": "{palette.error.5}",
+        "value": "{palette.danger.5}",
         "type": "color"
       },
       "warning": {
@@ -526,32 +526,32 @@
     },
     "text": {
       "default": {
-        "value": "{palette.neutral.8}",
+        "value": "{palette.white.0}",
         "type": "color"
       },
       "weak": {
-        "value": "{palette.neutral.7}",
+        "value": "{palette.white.7}",
         "type": "color"
       },
       "weaker": {
-        "value": "{palette.neutral.6}",
+        "value": "{palette.white.6}",
         "type": "color"
       },
       "weakest": {
-        "value": "{palette.neutral.5}",
+        "value": "{palette.white.5}",
         "type": "color"
       },
       "primary": {
         "enabled": {
-          "value": "{primary.bold.enabled}",
+          "value": "{palette.primary.5}",
           "type": "color"
         },
         "hovered": {
-          "value": "{palette.primary.7}",
+          "value": "{palette.primary.4}",
           "type": "color"
         },
         "pressed": {
-          "value": "{palette.primary.7}",
+          "value": "{palette.primary.6}",
           "type": "color"
         },
         "disabled": {
@@ -564,7 +564,7 @@
         "type": "color"
       },
       "danger": {
-        "value": "{palette.error.6}",
+        "value": "{palette.danger.6}",
         "type": "color"
       },
       "warning": {
@@ -602,7 +602,7 @@
             "type": "color"
           },
           "lightest": {
-            "value": "{bg.page.default}",
+            "value": "{bg.page.container-1}",
             "type": "color"
           }
         },
@@ -766,12 +766,6 @@
           "value": "{palette.neutral.3}",
           "type": "color"
         }
-      },
-      "default": {
-        "enabled": {
-          "value": "{bg.page.default}",
-          "type": "color"
-        }
       }
     },
     "primary": {
@@ -858,6 +852,28 @@
         },
         "pressed": {
           "value": "linear-gradient (90deg, #0040E5 0%, #007AEB 100%)",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{palette.neutral.3}",
+          "type": "color"
+        }
+      },
+      "gradient-on": {
+        "enabled": {
+          "value": "{palette.white.0}",
+          "type": "color"
+        },
+        "hovered": {
+          "value": "{palette.white.0}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{palette.white.0}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{palette.neutral.5}",
           "type": "color"
         }
       }
