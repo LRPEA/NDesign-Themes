@@ -511,15 +511,19 @@
         "value": "{palette.primary.6}",
         "type": "color",
         "hovered": {
-          "value": "{palette.primary.5}",
+          "value": "{palette.error.5}",
           "type": "color"
         },
         "pressed": {
-          "value": "{palette.primary.7}",
+          "value": "{palette.error.7}",
           "type": "color"
         },
         "actived": {
-          "value": "{palette.primary.7}",
+          "value": "{palette.error.7}",
+          "type": "color"
+        },
+        "default": {
+          "value": "{palette.error.6}",
           "type": "color"
         }
       },
@@ -536,24 +540,6 @@
         },
         "actived": {
           "value": "{palette.success.7}",
-          "type": "color"
-        }
-      },
-      "danger": {
-        "default": {
-          "value": "{palette.error.6}",
-          "type": "color"
-        },
-        "hovered": {
-          "value": "{palette.error.5}",
-          "type": "color"
-        },
-        "pressed": {
-          "value": "{palette.error.7}",
-          "type": "color"
-        },
-        "actived": {
-          "value": "{palette.error.7}",
           "type": "color"
         }
       },
