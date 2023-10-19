@@ -751,15 +751,15 @@
     "bg": {
       "page": {
         "default": {
-          "value": "{palette.white.0}",
-          "type": "color"
-        },
-        "container-1": {
           "value": "{palette.neutral.2}",
           "type": "color"
         },
+        "container-1": {
+          "value": "{palette.white.0}",
+          "type": "color"
+        },
         "container-2": {
-          "value": "{palette.neutral.3}",
+          "value": "{palette.white.0}",
           "type": "color"
         }
       }
