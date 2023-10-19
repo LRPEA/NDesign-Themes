@@ -1005,6 +1005,14 @@
           }
         }
       }
+    },
+    "form": {
+      "bg": {
+        "default": {
+          "value": "{bg.page.default}",
+          "type": "color"
+        }
+      }
     }
   },
   "$themes": [],
