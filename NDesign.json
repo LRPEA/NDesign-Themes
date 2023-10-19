@@ -566,6 +566,10 @@
       "disabled": {
         "value": "{text.weakest}",
         "type": "color"
+      },
+      "danger": {
+        "value": "{palette.danger.6}",
+        "type": "color"
       }
     },
     "body": {
