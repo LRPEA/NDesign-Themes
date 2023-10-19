@@ -879,6 +879,14 @@
         "value": "{palette.black.3}",
         "type": "color"
       }
+    },
+    "form": {
+      "bg": {
+        "default": {
+          "value": "{palette.neutral.2}",
+          "type": "color"
+        }
+      }
     }
   },
   "$themes": [],
