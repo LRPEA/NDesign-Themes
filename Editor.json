@@ -952,6 +952,14 @@
       "light": {
         "value": "{palette.black.3}",
         "type": "color"
+      },
+      "form": {
+        "enabled": {
+          "value": {
+            "width": "{width.borderless}"
+          },
+          "type": "border"
+        }
       }
     },
     "win-sc": {
