@@ -984,11 +984,11 @@
         }
       },
       "default": {
-        "value": "{font-weight.apple.default}",
+        "value": "{font-weight.win.default}",
         "type": "fontWeights"
       },
       "emphasized": {
-        "value": "{font-weight.apple.emphasized}",
+        "value": "{font-weight.win.emphasized}",
         "type": "fontWeights"
       }
     },
