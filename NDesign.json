@@ -1324,7 +1324,7 @@
         "type": "fontSizes"
       }
     },
-    "sc (copy)": {
+    "sc": {
       "default": {
         "value": "{sc-apple.default}",
         "type": "fontFamilies"
@@ -1338,7 +1338,7 @@
         "type": "fontFamilies"
       }
     },
-    "en (copy)": {
+    "en": {
       "default": {
         "value": "{en-apple.default}",
         "type": "fontFamilies"
