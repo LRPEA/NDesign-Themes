@@ -576,7 +576,7 @@
     },
     "body": {
       "s": {
-        "value": "14",
+        "value": "12",
         "type": "fontSizes"
       },
       "m": {
@@ -660,45 +660,47 @@
         }
       }
     },
-    "apple-sc": {
+    "sc-apple": {
       "default": {
         "value": "PingFang SC",
         "type": "fontFamilies"
       },
       "emphasized": {
-        "value": "{apple-sc.default}",
+        "value": "{sc-apple.default}",
         "type": "fontFamilies"
       },
-      "weakened": {
-        "value": "{apple-sc.default}",
+      "weak": {
+        "value": "{sc-apple.default}",
         "type": "fontFamilies"
       }
     },
-    "apple-en": {
+    "en-apple": {
       "default": {
         "value": "SF Pro Text",
         "type": "fontFamilies"
       },
       "emphasized": {
-        "value": "{apple-en.default}",
+        "value": "{en-apple.default}",
         "type": "fontFamilies"
       },
-      "weakened": {
-        "value": "{apple-en.default}",
+      "weak": {
+        "value": "{en-apple.default}",
         "type": "fontFamilies"
       }
     },
-    "compact": {
-      "value": "120%",
-      "type": "lineHeights"
-    },
-    "default": {
-      "value": "150%",
-      "type": "lineHeights"
-    },
-    "loose": {
-      "value": "180%",
-      "type": "lineHeights"
+    "line-height": {
+      "compact": {
+        "value": "120%",
+        "type": "lineHeights"
+      },
+      "default": {
+        "value": "150%",
+        "type": "lineHeights"
+      },
+      "loose": {
+        "value": "180%",
+        "type": "lineHeights"
+      }
     },
     "title": {
       "s": {
@@ -962,84 +964,90 @@
         }
       }
     },
-    "win-sc": {
+    "sc-win": {
       "default": {
         "value": "Microsoft YaHei UI",
         "type": "fontFamilies"
       },
       "emphasized": {
-        "value": "{win-sc.default}",
+        "value": "{sc-win.default}",
         "type": "fontFamilies"
       },
-      "weakened": {
-        "value": "{win-sc.default}",
+      "weak": {
+        "value": "{sc-win.default}",
         "type": "fontFamilies"
       }
     },
-    "win-en": {
+    "en-win": {
       "default": {
         "value": "Segoe UI",
         "type": "fontFamilies"
       },
       "emphasized": {
-        "value": "{win-en.default}",
+        "value": "{en-win.default}",
         "type": "fontFamilies"
       },
-      "weakened": {
-        "value": "{win-en.default}",
+      "weak": {
+        "value": "{en-win.default}",
         "type": "fontFamilies"
       }
     },
-    "apple": {
+    "font-weight": {
+      "apple": {
+        "default": {
+          "value": "Regular",
+          "type": "fontWeights"
+        },
+        "emphasized": {
+          "value": "Semibold",
+          "type": "fontWeights"
+        }
+      },
+      "win": {
+        "default": {
+          "value": "Regular",
+          "type": "fontWeights"
+        },
+        "emphasized": {
+          "value": "Bold",
+          "type": "fontWeights"
+        }
+      },
       "default": {
-        "value": "Regular",
+        "value": "{font-weight.apple.default}",
         "type": "fontWeights"
       },
       "emphasized": {
-        "value": "Semibold",
+        "value": "{font-weight.apple.emphasized}",
         "type": "fontWeights"
       }
     },
-    "win": {
-      "default": {
-        "value": "Regular",
-        "type": "fontWeights"
-      },
-      "emphasized": {
-        "value": "Bold",
-        "type": "fontWeights"
-      }
-    },
-    "Typography": {
+    "font": {
       "body": {
         "m": {
           "default": {
             "value": {
-              "fontFamily": "{win-sc.default}",
-              "fontWeight": "{win.default}",
-              "lineHeight": "{default}",
-              "fontSize": "{body.m}",
-              "paragraphSpacing": "0",
-              "paragraphIndent": "0",
-              "letterSpacing": "0",
-              "textDecoration": "none"
+              "fontFamily": "{sc.default}",
+              "fontWeight": "{font-weight.default}",
+              "lineHeight": "{line-height.default}",
+              "fontSize": "{body.m}"
             },
             "type": "typography"
           },
           "emphasized": {
             "value": {
-              "fontFamily": "{win-sc.default}",
-              "fontWeight": "{win.emphasized}",
-              "lineHeight": "{default}",
+              "fontFamily": "{sc.default}",
+              "fontWeight": "{font-weight.emphasized}",
+              "lineHeight": "{line-height.default}",
               "fontSize": "{body.m}"
             },
             "type": "typography"
           },
           "link": {
             "value": {
-              "fontFamily": "{win-sc.default}",
-              "fontWeight": "{win.default}",
-              "lineHeight": "{default}",
+              "fontFamily": "{sc.default}",
+              "fontWeight": "{font-weight.default}",
+              "lineHeight": "{line-height.default}",
               "fontSize": "{body.m}",
               "textDecoration": "Underline"
             },
@@ -1054,6 +1062,48 @@
           "value": "{bg.page.default}",
           "type": "color"
         }
+      }
+    },
+    "paragraph": {
+      "s": {
+        "value": "14",
+        "type": "fontSizes"
+      },
+      "m": {
+        "value": "16",
+        "type": "fontSizes"
+      },
+      "l": {
+        "value": "18",
+        "type": "fontSizes"
+      }
+    },
+    "sc": {
+      "default": {
+        "value": "{sc-apple.default}",
+        "type": "fontFamilies"
+      },
+      "emphasized": {
+        "value": "{sc-apple.emphasized}",
+        "type": "fontFamilies"
+      },
+      "weak": {
+        "value": "{sc-apple.weak}",
+        "type": "fontFamilies"
+      }
+    },
+    "en": {
+      "default": {
+        "value": "{en-apple.default}",
+        "type": "fontFamilies"
+      },
+      "emphasized": {
+        "value": "{en-apple.emphasized}",
+        "type": "fontFamilies"
+      },
+      "weak": {
+        "value": "{en-apple.weak}",
+        "type": "fontFamilies"
       }
     }
   },
