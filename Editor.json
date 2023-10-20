@@ -928,7 +928,7 @@
       "form": {
         "enabled": {
           "value": {
-            "width": "{width.borderless}"
+            "width": "{border-width.borderless}"
           },
           "type": "border"
         }
