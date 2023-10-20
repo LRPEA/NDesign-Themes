@@ -1328,29 +1328,29 @@
     },
     "sc": {
       "default": {
-        "value": "{sc-apple.default}",
+        "value": "{sc-win.default}",
         "type": "fontFamilies"
       },
       "emphasized": {
-        "value": "{sc-apple.emphasized}",
+        "value": "{sc-win.emphasized}",
         "type": "fontFamilies"
       },
       "weak": {
-        "value": "{sc-apple.weak}",
+        "value": "{sc-win.weak}",
         "type": "fontFamilies"
       }
     },
     "en": {
       "default": {
-        "value": "{en-apple.default}",
+        "value": "{en-win.default}",
         "type": "fontFamilies"
       },
       "emphasized": {
-        "value": "{en-apple.emphasized}",
+        "value": "{en-win.emphasized}",
         "type": "fontFamilies"
       },
       "weak": {
-        "value": "{en-apple.weak}",
+        "value": "{en-win.weak}",
         "type": "fontFamilies"
       }
     },
