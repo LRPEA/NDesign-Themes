@@ -756,7 +756,7 @@
         "type": "borderWidth"
       },
       "focused": {
-        "value": "{width.thick}",
+        "value": "{border-width.thick}",
         "type": "borderWidth"
       }
     },
@@ -925,7 +925,7 @@
         "enabled": {
           "value": {
             "color": "{border.neutral.enabled}",
-            "width": "{width.default}",
+            "width": "{border-width.default}",
             "style": "solid"
           },
           "type": "border"
