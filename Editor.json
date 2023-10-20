@@ -494,36 +494,6 @@
         }
       }
     },
-    "roles": {
-      "primary": {
-        "value": "{palette.primary.6}",
-        "type": "color"
-      },
-      "secondary": {
-        "value": "{palette.primary.6}",
-        "type": "color"
-      },
-      "accent": {
-        "value": "{palette.primary.6}",
-        "type": "color"
-      },
-      "success": {
-        "value": "{palette.success.6}",
-        "type": "color"
-      },
-      "danger": {
-        "value": "{palette.danger.5}",
-        "type": "color"
-      },
-      "warning": {
-        "value": "{palette.warning.5}",
-        "type": "color"
-      },
-      "info": {
-        "value": "{palette.info.6}",
-        "type": "color"
-      }
-    },
     "text": {
       "default": {
         "value": "{palette.white.0}",
@@ -744,7 +714,7 @@
         "type": "fontSizes"
       }
     },
-    "width": {
+    "border-width": {
       "default": {
         "value": "1",
         "type": "borderWidth"
