@@ -918,12 +918,22 @@
       "light": {
         "value": "{palette.black.3}",
         "type": "color"
+      },
+      "form": {
+        "enabled": {
+          "value": {
+            "color": "{border.neutral.enabled}",
+            "width": "{width.default}",
+            "style": "solid"
+          },
+          "type": "border"
+        }
       }
     },
     "form": {
       "bg": {
         "default": {
-          "value": "{palette.neutral.2}",
+          "value": "palette.white.0",
           "type": "color"
         }
       }
