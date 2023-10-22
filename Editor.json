@@ -931,6 +931,20 @@
             "width": "{border-width.borderless}"
           },
           "type": "border"
+        },
+        "hovered": {
+          "value": {
+            "width": "{border-width.default}",
+            "color": "{border.neutral.hovered}"
+          },
+          "type": "border"
+        },
+        "actived": {
+          "value": {
+            "width": "{border-width.default}",
+            "color": "{border.neutral.actived}"
+          },
+          "type": "border"
         }
       }
     },
