@@ -976,6 +976,13 @@
           "width": "{border-width.default}"
         },
         "type": "border"
+      },
+      "selected": {
+        "value": {
+          "color": "{border.primary.enabled}",
+          "width": "{border-width.thick}"
+        },
+        "type": "border"
       }
     },
     "sc-win": {
@@ -1748,6 +1755,22 @@
               "textDecoration": "underline"
             },
             "type": "typography"
+          }
+        }
+      }
+    },
+    "menu": {
+      "level-1": {
+        "state-on": {
+          "enabled": {
+            "value": "{primary.subtle.enabled}",
+            "type": "color"
+          }
+        },
+        "state-off": {
+          "enabled": {
+            "value": "{bg.container.darker}",
+            "type": "color"
           }
         }
       }
