@@ -1763,7 +1763,7 @@
       "level-1": {
         "state-on": {
           "enabled": {
-            "value": "{bg.container.darkest}",
+            "value": "{bg.container.lighter}",
             "type": "color"
           }
         },
