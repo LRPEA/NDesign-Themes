@@ -1751,6 +1751,22 @@
           }
         }
       }
+    },
+    "menu": {
+      "level-1": {
+        "state-on": {
+          "enabled": {
+            "value": "{bg.container.darkest}",
+            "type": "color"
+          }
+        },
+        "state-off": {
+          "enabled": {
+            "value": "{bg.container.lighter}",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "$themes": [],
