@@ -1774,6 +1774,40 @@
           }
         }
       }
+    },
+    "tab": {
+      "bg": {
+        "value": "{bg.container.darder}",
+        "type": "color"
+      },
+      "item": {
+        "enabled": {
+          "value": "{tab.bg}",
+          "type": "color"
+        },
+        "hovered": {
+          "value": "{tab.bg}",
+          "type": "color"
+        },
+        "actived": {
+          "value": "{bg.container.lighter}",
+          "type": "color"
+        }
+      },
+      "on-item": {
+        "enabled": {
+          "value": "{text.weak}",
+          "type": "color"
+        },
+        "hovered": {
+          "value": "{text.hovered}",
+          "type": "color"
+        },
+        "actived": {
+          "value": "{text.default}",
+          "type": "color"
+        }
+      }
     }
   },
   "$themes": [],
