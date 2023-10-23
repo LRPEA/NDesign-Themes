@@ -976,6 +976,13 @@
           "width": "{border-width.borderless}"
         },
         "type": "border"
+      },
+      "selected": {
+        "value": {
+          "color": "{border.primary.enabled}",
+          "width": "{border-width.thick}"
+        },
+        "type": "border"
       }
     },
     "sc-win": {
