@@ -1804,7 +1804,7 @@
           "type": "color"
         },
         "actived": {
-          "value": "{text.primary}",
+          "value": "{text.default}",
           "type": "color"
         }
       }
