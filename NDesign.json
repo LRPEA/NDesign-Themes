@@ -929,6 +929,20 @@
             "style": "solid"
           },
           "type": "border"
+        },
+        "hovered": {
+          "value": {
+            "width": "{border-width.default}",
+            "color": "{border.neutral.hovered}"
+          },
+          "type": "border"
+        },
+        "actived": {
+          "value": {
+            "width": "{border-width.default}",
+            "color": "{border.neutral.actived}"
+          },
+          "type": "border"
         }
       }
     },
@@ -1305,7 +1319,19 @@
     "form": {
       "bg": {
         "default": {
-          "value": "palette.white.0",
+          "value": "{palette.white.0}",
+          "type": "color"
+        },
+        "darker": {
+          "value": "{palette.neutral.2}",
+          "type": "color"
+        },
+        "lighter": {
+          "value": "{palette.white.0}",
+          "type": "color"
+        },
+        "on": {
+          "value": "{primary.bold.enabled}",
           "type": "color"
         }
       }
