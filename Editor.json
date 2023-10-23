@@ -1323,6 +1323,18 @@
         "default": {
           "value": "{bg.page.default}",
           "type": "color"
+        },
+        "darker": {
+          "value": "{bg.page.default}",
+          "type": "color"
+        },
+        "lighter": {
+          "value": "{bg.page.container-2}",
+          "type": "color"
+        },
+        "on": {
+          "value": "{palette.primary.6}",
+          "type": "color"
         }
       }
     },
