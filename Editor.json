@@ -560,73 +560,109 @@
     },
     "btn": {
       "primary": {
-        "bg": {
-          "bold": {
-            "enabled": {
-              "value": "{primary.gradient.enabled}",
-              "type": "color"
-            },
-            "hovered": {
-              "value": "{primary.gradient.hovered}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{primary.gradient.pressed}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{primary.gradient.disabled}",
-              "type": "color"
-            }
-          },
-          "subtle": {
-            "enabled": {
-              "value": "{primary.subtle.enabled}",
-              "type": "color"
-            }
-          },
-          "filless": {
-            "hovered": {
-              "value": "{palette.primary.8}",
-              "type": "color"
-            }
-          },
-          "bold-on": {
-            "enabled": {
-              "value": "{primary.gradient-on.enabled}",
-              "type": "color"
-            },
-            "hovered": {
-              "value": "{primary.gradient-on.hovered}",
-              "type": "color"
-            },
-            "pressed": {
-              "value": "{primary.gradient-on.pressed}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{primary.gradient-on.disabled}",
-              "type": "color"
-            }
-          }
-        },
-        "on": {
-          "bold": {
-            "value": "{palette.white.0}",
+        "bold": {
+          "enabled": {
+            "value": "{primary.gradient.enabled}",
             "type": "color"
           },
-          "subtle": {
-            "value": "{roles.primary}",
+          "hovered": {
+            "value": "{primary.gradient.hovered}",
             "type": "color"
           },
-          "common": {
-            "value": "{roles.primary}",
+          "pressed": {
+            "value": "{primary.gradient.pressed}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{primary.gradient.disabled}",
             "type": "color"
           }
         },
-        "border": {
-          "value": "{border.primary.enabled}",
-          "type": "color"
+        "subtle": {
+          "enabled": {
+            "value": "{primary.subtle.enabled}",
+            "type": "color"
+          }
+        },
+        "filless": {
+          "hovered": {
+            "value": "{palette.primary.8}",
+            "type": "color"
+          }
+        },
+        "on-bold": {
+          "enabled": {
+            "value": "{primary.gradient-on.enabled}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{primary.gradient-on.hovered}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{primary.gradient-on.pressed}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{primary.gradient-on.disabled}",
+            "type": "color"
+          }
+        }
+      },
+      "neutral": {
+        "bold": {
+          "enabled": {
+            "value": "{primary.gradient.enabled}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{primary.gradient.hovered}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{primary.gradient.pressed}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{primary.gradient.disabled}",
+            "type": "color"
+          }
+        },
+        "subtle": {
+          "enabled": {
+            "value": "{palette.neutral.4}",
+            "type": "color"
+          }
+        },
+        "filless": {
+          "hovered": {
+            "value": "{palette.primary.8}",
+            "type": "color"
+          }
+        },
+        "on-bold": {
+          "enabled": {
+            "value": "{primary.gradient-on.enabled}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{primary.gradient-on.hovered}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{primary.gradient-on.pressed}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{primary.gradient-on.disabled}",
+            "type": "color"
+          }
+        },
+        "on-subtle": {
+          "enabled": {
+            "value": "{text.default}",
+            "type": "color"
+          }
         }
       }
     },
