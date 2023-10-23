@@ -814,7 +814,7 @@
           "value": "{palette.neutral.4}",
           "type": "color"
         },
-        "darder": {
+        "darker": {
           "value": "{palette.neutral.1}",
           "type": "color"
         },
@@ -1813,7 +1813,7 @@
     },
     "tab": {
       "bg": {
-        "value": "{bg.container.darder}",
+        "value": "{bg.container.darker}",
         "type": "color"
       },
       "item": {
