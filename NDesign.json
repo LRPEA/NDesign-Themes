@@ -717,26 +717,6 @@
         "value": "{palette.neutral.5}",
         "type": "color"
       },
-      "accent": {
-        "value": "{palette.brand.6}",
-        "type": "color",
-        "hovered": {
-          "value": "{palette.error.5}",
-          "type": "color"
-        },
-        "pressed": {
-          "value": "{palette.error.7}",
-          "type": "color"
-        },
-        "actived": {
-          "value": "{palette.error.7}",
-          "type": "color"
-        },
-        "default": {
-          "value": "{palette.error.6}",
-          "type": "color"
-        }
-      },
       "hovered": {
         "value": "{palette.brand.5}",
         "type": "color"
@@ -883,6 +863,72 @@
         "disabled": {
           "value": "{palette.danger.3}",
           "type": "color"
+        }
+      },
+      "accent": {
+        "enabled": {
+          "value": "{palette.brand.6}",
+          "type": "color",
+          "hovered": {
+            "value": "{palette.success.5}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{palette.success.7}",
+            "type": "color"
+          },
+          "actived": {
+            "value": "{palette.success.7}",
+            "type": "color"
+          }
+        },
+        "hovered": {
+          "value": "{text.hovered}",
+          "type": "color",
+          "hovered": {
+            "value": "{palette.success.5}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{palette.success.7}",
+            "type": "color"
+          },
+          "actived": {
+            "value": "{palette.success.7}",
+            "type": "color"
+          }
+        },
+        "pressed": {
+          "value": "{text.pressed}",
+          "type": "color",
+          "hovered": {
+            "value": "{palette.success.5}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{palette.success.7}",
+            "type": "color"
+          },
+          "actived": {
+            "value": "{palette.success.7}",
+            "type": "color"
+          }
+        },
+        "disabled": {
+          "value": "{palette.brand.3}",
+          "type": "color",
+          "hovered": {
+            "value": "{palette.success.5}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{palette.success.7}",
+            "type": "color"
+          },
+          "actived": {
+            "value": "{palette.success.7}",
+            "type": "color"
+          }
         }
       }
     },
