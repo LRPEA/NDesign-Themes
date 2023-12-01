@@ -718,7 +718,7 @@
         "type": "color"
       },
       "hovered": {
-        "value": "{palette.brand.5}",
+        "value": "{palette.brand.6}",
         "type": "color"
       },
       "pressed": {
@@ -883,7 +883,7 @@
           }
         },
         "hovered": {
-          "value": "{text.hovered}",
+          "value": "{palette.brand.5}",
           "type": "color",
           "hovered": {
             "value": "{palette.success.5}",
@@ -1162,10 +1162,6 @@
       "borderless": {
         "value": "0",
         "type": "borderWidth"
-      },
-      "focused": {
-        "value": "{border-width.thick}",
-        "type": "borderWidth"
       }
     },
     "radius": {
@@ -1311,10 +1307,6 @@
         "value": "{primary.bold.enabled}",
         "type": "color"
       },
-      "focused": {
-        "value": "{palette.black.100}",
-        "type": "color"
-      },
       "lightest": {
         "value": "{palette.neutral.3}",
         "type": "color"
@@ -1342,51 +1334,6 @@
       "danger": {
         "value": "{palette.danger.6}",
         "type": "color"
-      },
-      "form": {
-        "enabled": {
-          "value": {
-            "color": "{border.neutral.enabled}",
-            "width": "{border-width.default}",
-            "style": "solid"
-          },
-          "type": "border"
-        },
-        "hovered": {
-          "value": {
-            "width": "{border-width.default}",
-            "color": "{border.neutral.hovered}"
-          },
-          "type": "border"
-        },
-        "actived": {
-          "value": {
-            "width": "{border-width.default}",
-            "color": "{border.neutral.actived}"
-          },
-          "type": "border"
-        }
-      },
-      "container": {
-        "value": {
-          "color": "{border.lightest}",
-          "width": "{border-width.default}"
-        },
-        "type": "border"
-      },
-      "title-bar": {
-        "value": {
-          "color": "{border.lightest}",
-          "width": "{border-width.default}"
-        },
-        "type": "border"
-      },
-      "selected": {
-        "value": {
-          "color": "{border.accent}",
-          "width": "{border-width.thick}"
-        },
-        "type": "border"
       }
     },
     "sc-win": {
@@ -2235,6 +2182,15 @@
           "value": "{text.primary}",
           "type": "color"
         }
+      }
+    },
+    "stroke": {
+      "focused": {
+        "value": {
+          "color": "{palette.black.100}",
+          "width": "{border-width.thick}"
+        },
+        "type": "border"
       }
     }
   },
