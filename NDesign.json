@@ -1022,17 +1022,17 @@
             "type": "color"
           }
         },
-        "subtle-on": {
+        "on": {
           "enabled": {
             "value": "{text.accent.enabled}",
             "type": "color"
           },
           "hovered": {
-            "value": "{text.accent.enabled}",
+            "value": "{palette.brand.7}",
             "type": "color"
           },
           "pressed": {
-            "value": "{text.accent.enabled}",
+            "value": "{text.accent.pressed}",
             "type": "color"
           },
           "disabled": {
@@ -1046,24 +1046,6 @@
             "type": "color"
           },
           "pressed": {
-            "value": "{palette.brand.2}",
-            "type": "color"
-          }
-        },
-        "filless-on": {
-          "hovered": {
-            "value": "{palette.brand.1}",
-            "type": "color"
-          },
-          "enabled": {
-            "value": "{palette.brand.1}",
-            "type": "color"
-          },
-          "pressed": {
-            "value": "{palette.brand.2}",
-            "type": "color"
-          },
-          "disabled": {
             "value": "{palette.brand.2}",
             "type": "color"
           }
