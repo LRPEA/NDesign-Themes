@@ -1118,6 +1118,90 @@
             "type": "color"
           }
         }
+      },
+      "success": {
+        "bold": {
+          "enabled": {
+            "value": "{palette.success.6}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{palette.success.5}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{palette.success.7}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{palette.success.3}",
+            "type": "color"
+          }
+        },
+        "bold-on": {
+          "enabled": {
+            "value": "{text.reversed.primary}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{text.reversed.primary}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{text.reversed.primary}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{text.reversed.primary}",
+            "type": "color"
+          }
+        },
+        "subtle": {
+          "enabled": {
+            "value": "{surface.success.lightest}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{palette.success.2}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{palette.success.3}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{palette.success.1}",
+            "type": "color"
+          }
+        },
+        "on": {
+          "enabled": {
+            "value": "{text.success.enabled}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{palette.success.8}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{palette.success.8}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{text.success.disabled}",
+            "type": "color"
+          }
+        },
+        "filless": {
+          "hovered": {
+            "value": "{palette.success.1}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{palette.success.2}",
+            "type": "color"
+          }
+        }
       }
     },
     "sc-apple": {
