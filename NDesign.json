@@ -765,7 +765,7 @@
           }
         },
         "pressed": {
-          "value": "{palette.success.7}",
+          "value": "{palette.success.8}",
           "type": "color",
           "hovered": {
             "value": "{palette.success.5}",
