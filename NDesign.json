@@ -2310,6 +2310,28 @@
         },
         "type": "border"
       }
+    },
+    "icon": {
+      "primary": {
+        "value": "{palette.brand.6}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{palette.success.6}",
+        "type": "color"
+      },
+      "danger": {
+        "value": "{palette.danger.5}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{palette.warning.5}",
+        "type": "color"
+      },
+      "info": {
+        "value": "{palette.info.6}",
+        "type": "color"
+      }
     }
   },
   "$themes": [],
