@@ -1304,6 +1304,174 @@
             "type": "color"
           }
         }
+      },
+      "warning": {
+        "bold": {
+          "enabled": {
+            "value": "{palette.warning.6}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{palette.warning.5}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{palette.warning.7}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{palette.warning.3}",
+            "type": "color"
+          }
+        },
+        "bold-on": {
+          "enabled": {
+            "value": "{text.reversed.primary}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{text.reversed.primary}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{text.reversed.primary}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{text.reversed.primary}",
+            "type": "color"
+          }
+        },
+        "subtle": {
+          "enabled": {
+            "value": "{surface.warning.lightest}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{palette.warning.2}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{palette.warning.3}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{palette.warning.1}",
+            "type": "color"
+          }
+        },
+        "on": {
+          "enabled": {
+            "value": "{text.warning.enabled}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{palette.warning.8}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{palette.warning.8}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{text.warning.disabled}",
+            "type": "color"
+          }
+        },
+        "filless": {
+          "hovered": {
+            "value": "{palette.warning.1}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{palette.warning.2}",
+            "type": "color"
+          }
+        }
+      },
+      "info": {
+        "bold": {
+          "enabled": {
+            "value": "{palette.info.6}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{palette.info.5}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{palette.info.7}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{palette.info.3}",
+            "type": "color"
+          }
+        },
+        "bold-on": {
+          "enabled": {
+            "value": "{text.reversed.primary}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{text.reversed.primary}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{text.reversed.primary}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{text.reversed.primary}",
+            "type": "color"
+          }
+        },
+        "subtle": {
+          "enabled": {
+            "value": "{surface.info.lightest}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{palette.info.2}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{palette.info.3}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{palette.info.1}",
+            "type": "color"
+          }
+        },
+        "on": {
+          "enabled": {
+            "value": "{text.info.enabled}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{palette.info.8}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{palette.info.8}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{text.info.disabled}",
+            "type": "color"
+          }
+        },
+        "filless": {
+          "hovered": {
+            "value": "{palette.info.1}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{palette.info.2}",
+            "type": "color"
+          }
+        }
       }
     },
     "sc-apple": {
