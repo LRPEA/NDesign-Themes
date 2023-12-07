@@ -1220,6 +1220,90 @@
             "type": "color"
           }
         }
+      },
+      "danger": {
+        "bold": {
+          "enabled": {
+            "value": "{palette.danger.6}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{palette.danger.5}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{palette.danger.7}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{palette.danger.3}",
+            "type": "color"
+          }
+        },
+        "bold-on": {
+          "enabled": {
+            "value": "{text.reversed.primary}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{text.reversed.primary}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{text.reversed.primary}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{text.reversed.primary}",
+            "type": "color"
+          }
+        },
+        "subtle": {
+          "enabled": {
+            "value": "{surface.danger.lightest}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{palette.danger.2}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{palette.danger.3}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{palette.danger.1}",
+            "type": "color"
+          }
+        },
+        "on": {
+          "enabled": {
+            "value": "{text.danger.enabled}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{palette.danger.8}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{palette.danger.8}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{text.danger.disabled}",
+            "type": "color"
+          }
+        },
+        "filless": {
+          "hovered": {
+            "value": "{palette.danger.1}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{palette.danger.2}",
+            "type": "color"
+          }
+        }
       }
     },
     "sc-apple": {
