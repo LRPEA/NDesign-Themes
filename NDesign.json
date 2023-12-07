@@ -1705,7 +1705,7 @@
             "value": {
               "fontFamily": "{sc.default}",
               "fontWeight": "{font-weight.default}",
-              "lineHeight": "{line-height.compact}",
+              "lineHeight": "{line-height.default}",
               "fontSize": "{headline.m}"
             },
             "type": "typography"
@@ -1714,7 +1714,7 @@
             "value": {
               "fontFamily": "{sc.default}",
               "fontWeight": "{font-weight.emphasized}",
-              "lineHeight": "{line-height.compact}",
+              "lineHeight": "{line-height.default}",
               "fontSize": "{headline.m}"
             },
             "type": "typography"
@@ -1725,7 +1725,7 @@
             "value": {
               "fontFamily": "{sc.default}",
               "fontWeight": "{font-weight.default}",
-              "lineHeight": "{line-height.compact}",
+              "lineHeight": "{line-height.default}",
               "fontSize": "{headline.s}"
             },
             "type": "typography"
@@ -1734,7 +1734,7 @@
             "value": {
               "fontFamily": "{sc.default}",
               "fontWeight": "{font-weight.emphasized}",
-              "lineHeight": "{line-height.compact}",
+              "lineHeight": "{line-height.default}",
               "fontSize": "{headline.s}"
             },
             "type": "typography"
@@ -1745,7 +1745,7 @@
             "value": {
               "fontFamily": "{sc.default}",
               "fontWeight": "{font-weight.default}",
-              "lineHeight": "{line-height.compact}",
+              "lineHeight": "{line-height.default}",
               "fontSize": "{headline.l}"
             },
             "type": "typography"
@@ -1754,7 +1754,7 @@
             "value": {
               "fontFamily": "{sc.default}",
               "fontWeight": "{font-weight.emphasized}",
-              "lineHeight": "{line-height.compact}",
+              "lineHeight": "{line-height.default}",
               "fontSize": "{headline.l}"
             },
             "type": "typography"
@@ -1767,7 +1767,7 @@
             "value": {
               "fontFamily": "{sc.default}",
               "fontWeight": "{font-weight.default}",
-              "lineHeight": "{line-height.compact}",
+              "lineHeight": "{line-height.default}",
               "fontSize": "{display.m}"
             },
             "type": "typography"
@@ -1776,7 +1776,7 @@
             "value": {
               "fontFamily": "{sc.default}",
               "fontWeight": "{font-weight.emphasized}",
-              "lineHeight": "{line-height.compact}",
+              "lineHeight": "{line-height.default}",
               "fontSize": "{display.m}"
             },
             "type": "typography"
@@ -1787,7 +1787,7 @@
             "value": {
               "fontFamily": "{sc.default}",
               "fontWeight": "{font-weight.default}",
-              "lineHeight": "{line-height.compact}",
+              "lineHeight": "{line-height.default}",
               "fontSize": "{display.s}"
             },
             "type": "typography"
@@ -1796,7 +1796,7 @@
             "value": {
               "fontFamily": "{sc.default}",
               "fontWeight": "{font-weight.emphasized}",
-              "lineHeight": "{line-height.compact}",
+              "lineHeight": "{line-height.default}",
               "fontSize": "{display.s}"
             },
             "type": "typography"
@@ -1807,7 +1807,7 @@
             "value": {
               "fontFamily": "{sc.default}",
               "fontWeight": "{font-weight.default}",
-              "lineHeight": "{line-height.compact}",
+              "lineHeight": "{line-height.default}",
               "fontSize": "{display.l}"
             },
             "type": "typography"
@@ -1816,7 +1816,7 @@
             "value": {
               "fontFamily": "{sc.default}",
               "fontWeight": "{font-weight.emphasized}",
-              "lineHeight": "{line-height.compact}",
+              "lineHeight": "{line-height.default}",
               "fontSize": "{display.l}"
             },
             "type": "typography"
