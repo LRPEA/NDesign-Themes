@@ -1418,6 +1418,60 @@
           "value": "{palette.success.1}",
           "type": "color"
         }
+      },
+      "danger": {
+        "bold": {
+          "value": "{palette.danger.6}",
+          "type": "color"
+        },
+        "medium": {
+          "value": "{palette.danger.5}",
+          "type": "color"
+        },
+        "light": {
+          "value": "{palette.danger.2}",
+          "type": "color"
+        },
+        "lightest": {
+          "value": "{palette.danger.1}",
+          "type": "color"
+        }
+      },
+      "warning": {
+        "bold": {
+          "value": "{palette.warning.6}",
+          "type": "color"
+        },
+        "medium": {
+          "value": "{palette.warning.5}",
+          "type": "color"
+        },
+        "light": {
+          "value": "{palette.warning.2}",
+          "type": "color"
+        },
+        "lightest": {
+          "value": "{palette.warning.1}",
+          "type": "color"
+        }
+      },
+      "info": {
+        "bold": {
+          "value": "{palette.info.6}",
+          "type": "color"
+        },
+        "medium": {
+          "value": "{palette.info.5}",
+          "type": "color"
+        },
+        "light": {
+          "value": "{palette.info.2}",
+          "type": "color"
+        },
+        "lightest": {
+          "value": "{palette.info.1}",
+          "type": "color"
+        }
       }
     },
     "border": {
