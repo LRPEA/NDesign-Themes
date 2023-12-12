@@ -968,6 +968,16 @@
           "value": "{palette.black.5}",
           "type": "color"
         }
+      },
+      "selected": {
+        "bg": {
+          "value": "{palette.azure.2}",
+          "type": "color"
+        },
+        "on": {
+          "value": "{palette.white.100}",
+          "type": "color"
+        }
       }
     },
     "body": {
@@ -2600,6 +2610,57 @@
           "width": "{border-width.thick}"
         },
         "type": "border"
+      },
+      "input": {
+        "enabled": {
+          "value": {
+            "color": "{border.normal}",
+            "width": "{border-width.default}"
+          },
+          "type": "border"
+        },
+        "hovered": {
+          "value": {
+            "color": "{border.primary}",
+            "width": "{border-width.default}"
+          },
+          "type": "border"
+        },
+        "actived": {
+          "value": {
+            "color": "{border.primary}",
+            "width": "{border-width.default}"
+          },
+          "type": "border"
+        },
+        "disabled": {
+          "value": {
+            "color": "{border.lighter}",
+            "width": "{border-width.default}"
+          },
+          "type": "border"
+        },
+        "success": {
+          "value": {
+            "color": "{border.success}",
+            "width": "{border-width.default}"
+          },
+          "type": "border"
+        },
+        "danger": {
+          "value": {
+            "color": "{border.danger}",
+            "width": "{border-width.default}"
+          },
+          "type": "border"
+        },
+        "warning": {
+          "value": {
+            "color": "{border.warning}",
+            "width": "{border-width.default}"
+          },
+          "type": "border"
+        }
       }
     },
     "icon": {
@@ -2652,36 +2713,6 @@
         },
         "warning": {
           "value": "{surface.filless}",
-          "type": "color"
-        }
-      },
-      "border": {
-        "enabled": {
-          "value": "{border.normal}",
-          "type": "color"
-        },
-        "hovered": {
-          "value": "{border.primary}",
-          "type": "color"
-        },
-        "actived": {
-          "value": "{border.primary}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{border.lighter}",
-          "type": "color"
-        },
-        "success": {
-          "value": "{border.success}",
-          "type": "color"
-        },
-        "danger": {
-          "value": "{border.danger}",
-          "type": "color"
-        },
-        "warning": {
-          "value": "{border.warning}",
           "type": "color"
         }
       }
