@@ -1743,6 +1743,10 @@
         "lightest": {
           "value": "{palette.neutral.1}",
           "type": "color"
+        },
+        "lighter": {
+          "value": "{palette.neutral.2}",
+          "type": "color"
         }
       }
     },
