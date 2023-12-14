@@ -2689,7 +2689,7 @@
         "type": "color"
       }
     },
-    "input": {
+    "form": {
       "bg": {
         "default": {
           "value": "{surface.filless}",
@@ -2719,6 +2719,16 @@
           "value": "{surface.filless}",
           "type": "color"
         }
+      }
+    },
+    "checkbox": {
+      "selected": {
+        "value": "{palette.brand.6}",
+        "type": "color"
+      },
+      "pressed": {
+        "value": "{palette.brand.3}",
+        "type": "color"
       }
     }
   },
