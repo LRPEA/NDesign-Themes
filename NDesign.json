@@ -2665,6 +2665,22 @@
           },
           "type": "border"
         }
+      },
+      "checkbox": {
+        "selected": {
+          "value": {
+            "width": "{border-width.borderless}",
+            "color": ""
+          },
+          "type": "border"
+        },
+        "pressed": {
+          "value": {
+            "width": "{border-width.default}",
+            "color": "{palette.brand.7}"
+          },
+          "type": "border"
+        }
       }
     },
     "icon": {
