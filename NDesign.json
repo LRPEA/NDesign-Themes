@@ -1747,6 +1747,10 @@
         "value": "{surface.page.default}",
         "type": "color"
       },
+      "tooltip": {
+        "value": "{palette.black.8}",
+        "type": "color"
+      },
       "neutral": {
         "lightest": {
           "value": "{palette.neutral.1}",
