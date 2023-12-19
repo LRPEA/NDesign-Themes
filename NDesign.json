@@ -1917,6 +1917,26 @@
           }
         }
       },
+      "mark": {
+        "default": {
+          "value": {
+            "fontFamily": "{sc.default}",
+            "fontWeight": "{font-weight.default}",
+            "lineHeight": "{line-height.default}",
+            "fontSize": "{mark}"
+          },
+          "type": "typography"
+        },
+        "emphasized": {
+          "value": {
+            "fontFamily": "{sc.default}",
+            "fontWeight": "{font-weight.emphasized}",
+            "lineHeight": "{line-height.default}",
+            "fontSize": "{mark}"
+          },
+          "type": "typography"
+        }
+      },
       "paragraph": {
         "m": {
           "default": {
@@ -2702,7 +2722,7 @@
         "type": "border"
       }
     },
-    "icon": {
+    "semantic": {
       "primary": {
         "value": "{palette.brand.6}",
         "type": "color"
@@ -2721,6 +2741,18 @@
       },
       "info": {
         "value": "{palette.info.6}",
+        "type": "color"
+      },
+      "badge": {
+        "value": "{semantic.danger}",
+        "type": "color"
+      },
+      "proccessing": {
+        "value": "{semantic.primary}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{palette.neutral.5}",
         "type": "color"
       }
     },
@@ -2840,6 +2872,10 @@
         ],
         "type": "boxShadow"
       }
+    },
+    "mark": {
+      "value": "10",
+      "type": "fontSizes"
     }
   },
   "$themes": [],
