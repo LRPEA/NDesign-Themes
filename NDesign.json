@@ -1751,6 +1751,10 @@
         "value": "{palette.black.8}",
         "type": "color"
       },
+      "backdrop": {
+        "value": "{palette.black.7}",
+        "type": "color"
+      },
       "neutral": {
         "lightest": {
           "value": "{palette.neutral.1}",
