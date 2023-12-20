@@ -2765,6 +2765,10 @@
       "default": {
         "value": "{palette.neutral.5}",
         "type": "color"
+      },
+      "spinner": {
+        "value": "{palette.brand.6}",
+        "type": "color"
       }
     },
     "form": {
