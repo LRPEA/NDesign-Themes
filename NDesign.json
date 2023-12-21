@@ -2738,7 +2738,7 @@
       },
       "tab": {
         "value": {
-          "color": "{border.lighter}",
+          "color": "{border.lightest}",
           "width": "{border-width.default}"
         },
         "type": "border"
