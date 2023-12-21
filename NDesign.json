@@ -722,6 +722,10 @@
           "value": "{palette.brand.6}",
           "type": "color"
         },
+        "actived": {
+          "value": "{palette.brand.6}",
+          "type": "color"
+        },
         "pressed": {
           "value": "{palette.brand.7}",
           "type": "color"
@@ -2725,10 +2729,17 @@
         },
         "type": "border"
       },
-      "outline": {
+      "space": {
         "value": {
           "color": "{surface.page.default}",
           "width": "{border-width.thick}"
+        },
+        "type": "border"
+      },
+      "tab": {
+        "value": {
+          "color": "{border.lighter}",
+          "width": "{border-width.default}"
         },
         "type": "border"
       }
@@ -2900,6 +2911,34 @@
       "animation": {
         "value": "linear-gradient (90deg, {palette.neutral.2} 0%, {palette.neutral.4} 100%)",
         "type": "color"
+      }
+    },
+    "tab": {
+      "enabled": {
+        "value": "{palette.neutral.2}",
+        "type": "color"
+      },
+      "hovered": {
+        "value": "{palette.neutral.1}",
+        "type": "color"
+      },
+      "actived": {
+        "default": {
+          "value": "{palette.brand.6}",
+          "type": "color"
+        },
+        "card": {
+          "value": "{palette.white.100}",
+          "type": "color"
+        },
+        "tag": {
+          "value": "{palette.brand.1}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{palette.neutral.2}",
+          "type": "color"
+        }
       }
     }
   },
