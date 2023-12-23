@@ -575,7 +575,7 @@
       },
       "green": {
         "1": {
-          "value": "#EFFBF3",
+          "value": "#EBFAF0",
           "type": "color"
         },
         "2": {
@@ -659,7 +659,7 @@
       },
       "azure": {
         "1": {
-          "value": "#F0FAFE",
+          "value": "#EBF8FE",
           "type": "color"
         },
         "2": {
