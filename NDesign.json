@@ -2950,21 +2950,87 @@
       }
     },
     "tag": {
-      "red": {
-        "dark": {
+      "default": {
+        "bold": {
           "value": "{palette.red.5}",
           "type": "color"
         },
-        "medium": {
-          "value": "{palette.red.2}",
-          "type": "color"
-        },
-        "light": {
+        "subtle": {
           "value": "{palette.red.1}",
           "type": "color"
         },
         "on": {
           "value": "{palette.red.7}",
+          "type": "color"
+        }
+      },
+      "primary": {
+        "bold": {
+          "value": "{palette.brand.5}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{palette.brand.1}",
+          "type": "color"
+        },
+        "on": {
+          "value": "{palette.brand.6}",
+          "type": "color"
+        }
+      },
+      "success": {
+        "bold": {
+          "value": "{palette.success.5}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{palette.success.1}",
+          "type": "color"
+        },
+        "on": {
+          "value": "{palette.success.7}",
+          "type": "color"
+        }
+      },
+      "danger": {
+        "bold": {
+          "value": "{palette.danger.5}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{palette.danger.1}",
+          "type": "color"
+        },
+        "on": {
+          "value": "{palette.danger.6}",
+          "type": "color"
+        }
+      },
+      "warning": {
+        "bold": {
+          "value": "{palette.warning.5}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{palette.warning.1}",
+          "type": "color"
+        },
+        "on": {
+          "value": "{palette.warning.7}",
+          "type": "color"
+        }
+      },
+      "info": {
+        "bold": {
+          "value": "{palette.info.5}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{palette.info.1}",
+          "type": "color"
+        },
+        "on": {
+          "value": "{palette.info.7}",
           "type": "color"
         }
       }
