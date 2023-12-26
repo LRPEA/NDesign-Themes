@@ -2748,14 +2748,14 @@
           "light": {
             "value": {
               "width": "{border-width.default}",
-              "color": "{border.lighter}"
+              "color": "{palette.neutral.3}"
             },
             "type": "border"
           },
           "dark": {
             "value": {
               "width": "{border-width.default}",
-              "color": "{border.lighter}"
+              "color": "{palette.neutral.5}"
             },
             "type": "border"
           }
@@ -3114,15 +3114,15 @@
     "tag": {
       "default": {
         "bold": {
-          "value": "{palette.red.5}",
+          "value": "{palette.neutral.6}",
           "type": "color"
         },
         "subtle": {
-          "value": "{palette.red.1}",
+          "value": "{palette.neutral.2}",
           "type": "color"
         },
         "on": {
-          "value": "{palette.red.7}",
+          "value": "{text.regular.primary}",
           "type": "color"
         }
       },
