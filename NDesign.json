@@ -3960,11 +3960,11 @@
     "menu": {
       "bg": {
         "hovered": {
-          "value": "{palette.neutral.2}",
+          "value": "{palette.neutral.1}",
           "type": "color"
         },
         "pressed": {
-          "value": "{palette.neutral.3}",
+          "value": "{palette.neutral.2}",
           "type": "color"
         },
         "selected": {
