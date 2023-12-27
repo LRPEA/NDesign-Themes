@@ -3956,6 +3956,36 @@
           "type": "color"
         }
       }
+    },
+    "menu": {
+      "bg": {
+        "hovered": {
+          "value": "{palette.neutral.2}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{palette.neutral.3}",
+          "type": "color"
+        },
+        "selected": {
+          "value": "{palette.brand.1}",
+          "type": "color"
+        }
+      },
+      "bg-on": {
+        "hovered": {
+          "value": "{text.regular.hovered}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{text.regular.pressed}",
+          "type": "color"
+        },
+        "selected": {
+          "value": "{text.primary.enabled}",
+          "type": "color"
+        }
+      }
     }
   },
   "$themes": [],
