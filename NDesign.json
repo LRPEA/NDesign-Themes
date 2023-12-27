@@ -3646,6 +3646,10 @@
       "hot": {
         "value": "{palette.red.5}",
         "type": "color"
+      },
+      "disabled": {
+        "value": "{palette.neutral.4}",
+        "type": "color"
       }
     },
     "form": {
@@ -3833,6 +3837,10 @@
         },
         "disabled": {
           "value": "rgba( {palette.brand.6} ,0.10)",
+          "type": "color"
+        },
+        "checked": {
+          "value": "{palette.brand.6}",
           "type": "color"
         }
       },
