@@ -3351,6 +3351,27 @@
         },
         "type": "border"
       },
+      "space": {
+        "value": {
+          "color": "{surface.page.default}",
+          "width": "{border-width.thick}"
+        },
+        "type": "border"
+      },
+      "tab": {
+        "value": {
+          "color": "{border.lightest}",
+          "width": "{border-width.default}"
+        },
+        "type": "border"
+      },
+      "overlay": {
+        "value": {
+          "color": "{palette.black.4}",
+          "width": "{border-width.default}"
+        },
+        "type": "border"
+      },
       "form": {
         "enabled": {
           "value": {
@@ -3417,27 +3438,6 @@
           },
           "type": "border"
         }
-      },
-      "overlay": {
-        "value": {
-          "color": "{palette.black.4}",
-          "width": "{border-width.default}"
-        },
-        "type": "border"
-      },
-      "space": {
-        "value": {
-          "color": "{surface.page.default}",
-          "width": "{border-width.thick}"
-        },
-        "type": "border"
-      },
-      "tab": {
-        "value": {
-          "color": "{border.lightest}",
-          "width": "{border-width.default}"
-        },
-        "type": "border"
       },
       "tag": {
         "default": {
@@ -3599,6 +3599,84 @@
             },
             "type": "border"
           }
+        }
+      },
+      "time": {
+        "common": {
+          "default": {
+            "value": {
+              "width": "{border-width.borderless}"
+            },
+            "type": "border"
+          },
+          "weak": {
+            "value": {
+              "width": "{border-width.borderless}"
+            },
+            "type": "border"
+          }
+        },
+        "current": {
+          "default": {
+            "value": {
+              "width": "{border-width.default}",
+              "color": "{border.primary}"
+            },
+            "type": "border"
+          },
+          "weak": {
+            "value": {
+              "width": "{border-width.default}",
+              "color": "{border.normal}"
+            },
+            "type": "border"
+          }
+        },
+        "weekend": {
+          "default": {
+            "value": {
+              "width": "{border-width.borderless}"
+            },
+            "type": "border"
+          },
+          "weak": {
+            "value": {
+              "width": "{border-width.borderless}"
+            },
+            "type": "border"
+          }
+        },
+        "holiday": {
+          "default": {
+            "value": {
+              "width": "{border-width.borderless}"
+            },
+            "type": "border"
+          },
+          "weak": {
+            "value": {
+              "width": "{border-width.borderless}"
+            },
+            "type": "border"
+          }
+        },
+        "selected": {
+          "value": {
+            "width": "{border-width.borderless}"
+          },
+          "type": "border"
+        },
+        "hovered": {
+          "value": {
+            "width": "{border-width.borderless}"
+          },
+          "type": "border"
+        },
+        "disabled": {
+          "value": {
+            "width": "{border-width.borderless}"
+          },
+          "type": "border"
         }
       }
     },
@@ -3983,6 +4061,116 @@
         },
         "selected": {
           "value": "{text.primary.enabled}",
+          "type": "color"
+        }
+      }
+    },
+    "time": {
+      "bg": {
+        "common": {
+          "default": {
+            "value": "{surface.filless}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{surface.filless}",
+            "type": "color"
+          }
+        },
+        "current": {
+          "default": {
+            "value": "{surface.filless}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{surface.filless}",
+            "type": "color"
+          }
+        },
+        "weekend": {
+          "default": {
+            "value": "{surface.filless}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{surface.filless}",
+            "type": "color"
+          }
+        },
+        "holiday": {
+          "default": {
+            "value": "{palette.red.1}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{palette.red.1}",
+            "type": "color"
+          }
+        },
+        "hovered": {
+          "value": "{palette.brand.2}",
+          "type": "color"
+        },
+        "selected": {
+          "value": "{surface.primary.bold}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{palette.neutral.4}",
+          "type": "color"
+        },
+        "highlight": {
+          "value": "{surface.info.lightest}",
+          "type": "color"
+        }
+      },
+      "bg-on": {
+        "common": {
+          "default": {
+            "value": "{text.regular.primary}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{text.regular.quaternary}",
+            "type": "color"
+          }
+        },
+        "current": {
+          "default": {
+            "value": "{text.primary.enabled}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{text.regular.quaternary}",
+            "type": "color"
+          }
+        },
+        "weakend": {
+          "default": {
+            "value": "{palette.red.6}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{palette.red.3}",
+            "type": "color"
+          }
+        },
+        "holiday": {
+          "default": {
+            "value": "{palette.red.6}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{palette.red.3}",
+            "type": "color"
+          }
+        },
+        "selected": {
+          "value": "{text.reversed.primary}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{text.regular.disabled}",
           "type": "color"
         }
       }
