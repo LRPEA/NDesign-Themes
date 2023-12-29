@@ -2310,6 +2310,10 @@
       "default": {
         "value": "{radius.m}",
         "type": "borderRadius"
+      },
+      "time": {
+        "value": "{radius.default}",
+        "type": "borderRadius"
       }
     },
     "surface": {
