@@ -2470,12 +2470,20 @@
         }
       },
       "neutral": {
+        "bold": {
+          "value": "{palette.neutral.6}",
+          "type": "color"
+        },
         "lightest": {
           "value": "{palette.neutral.1}",
           "type": "color"
         },
         "lighter": {
           "value": "{palette.neutral.2}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{palette.neutral.4}",
           "type": "color"
         }
       }
