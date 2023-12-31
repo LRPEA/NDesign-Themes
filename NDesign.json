@@ -3812,7 +3812,7 @@
         "type": "color"
       },
       "range": {
-        "value": "{palette.neutral.4}",
+        "value": "{palette.neutral.3}",
         "type": "color"
       }
     },
