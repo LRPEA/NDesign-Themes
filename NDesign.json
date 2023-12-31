@@ -3810,6 +3810,10 @@
       "disabled": {
         "value": "{palette.neutral.4}",
         "type": "color"
+      },
+      "range": {
+        "value": "{palette.neutral.4}",
+        "type": "color"
       }
     },
     "form": {
