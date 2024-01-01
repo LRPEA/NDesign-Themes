@@ -1782,19 +1782,19 @@
       "neutral": {
         "bold": {
           "enabled": {
-            "value": "{surface.primary.bold}",
+            "value": "{palette.neutral.7}",
             "type": "color"
           },
           "hovered": {
-            "value": "{surface.primary.medium}",
+            "value": "{palette.neutral.8}",
             "type": "color"
           },
           "pressed": {
-            "value": "{surface.primary.light}",
+            "value": "{palette.neutral.6}",
             "type": "color"
           },
           "disabled": {
-            "value": "{surface.primary.lightest}",
+            "value": "{palette.neutral.4}",
             "type": "color"
           }
         },
@@ -1819,6 +1819,10 @@
         "filless": {
           "hovered": {
             "value": "{palette.neutral.3}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{palette.neutral.4}",
             "type": "color"
           }
         },
