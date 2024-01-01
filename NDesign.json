@@ -4280,6 +4280,38 @@
           "type": "color"
         }
       }
+    },
+    "size": {
+      "input": {
+        "large": {
+          "value": "40",
+          "type": "sizing"
+        },
+        "medium": {
+          "value": "32",
+          "type": "sizing"
+        },
+        "small": {
+          "value": "24",
+          "type": "sizing"
+        }
+      }
+    },
+    "space": {
+      "input": {
+        "large": {
+          "value": "-40",
+          "type": "spacing"
+        },
+        "medium": {
+          "value": "-32",
+          "type": "spacing"
+        },
+        "small": {
+          "value": "-24",
+          "type": "spacing"
+        }
+      }
     }
   },
   "$themes": [],
