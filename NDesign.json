@@ -733,6 +733,10 @@
         "disabled": {
           "value": "{text.regular.quaternary}",
           "type": "color"
+        },
+        "processing": {
+          "value": "{palette.brand.6}",
+          "type": "color"
         }
       },
       "success": {
@@ -3814,6 +3818,10 @@
         "type": "color"
       },
       "proccessing": {
+        "value": "{semantic.primary.enabled}",
+        "type": "color"
+      },
+      "finish": {
         "value": "{semantic.primary.enabled}",
         "type": "color"
       },
