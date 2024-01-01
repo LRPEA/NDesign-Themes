@@ -3764,8 +3764,18 @@
     },
     "semantic": {
       "primary": {
-        "value": "{palette.brand.6}",
-        "type": "color"
+        "enabled": {
+          "value": "{palette.brand.6}",
+          "type": "color"
+        },
+        "hovered": {
+          "value": "{palette.brand.5}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{palette.brand.3}",
+          "type": "color"
+        }
       },
       "success": {
         "value": "{palette.success.6}",
@@ -3788,12 +3798,22 @@
         "type": "color"
       },
       "proccessing": {
-        "value": "{semantic.primary}",
+        "value": "{semantic.primary.enabled}",
         "type": "color"
       },
       "pending": {
-        "value": "{palette.neutral.5}",
-        "type": "color"
+        "enabled": {
+          "value": "{palette.neutral.5}",
+          "type": "color"
+        },
+        "hovered": {
+          "value": "{palette.neutral.6}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{palette.neutral.4}",
+          "type": "color"
+        }
       },
       "spinner": {
         "value": "{palette.brand.6}",
