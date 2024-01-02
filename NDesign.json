@@ -737,6 +737,10 @@
         "processing": {
           "value": "{palette.brand.6}",
           "type": "color"
+        },
+        "white": {
+          "value": "{palette.white.100}",
+          "type": "color"
         }
       },
       "success": {
