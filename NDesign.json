@@ -2334,6 +2334,10 @@
       "time": {
         "value": "{radius.default}",
         "type": "borderRadius"
+      },
+      "container": {
+        "value": "{radius.default}",
+        "type": "borderRadius"
       }
     },
     "surface": {
@@ -2940,8 +2944,10 @@
             "type": "typography"
           }
         }
-      },
-      "number": {
+      }
+    },
+    "number": {
+      "body": {
         "m": {
           "default": {
             "value": {
@@ -2998,6 +3004,68 @@
               "fontWeight": "{font-weight.emphasized}",
               "lineHeight": "{line-height.default}",
               "fontSize": "{body.l}"
+            },
+            "type": "typography"
+          }
+        }
+      },
+      "title": {
+        "m": {
+          "default": {
+            "value": {
+              "fontFamily": "{en.default}",
+              "fontWeight": "{font-weight.default}",
+              "lineHeight": "{line-height.default}",
+              "fontSize": "{title.m}"
+            },
+            "type": "typography"
+          },
+          "emphasized": {
+            "value": {
+              "fontFamily": "{en.default}",
+              "fontWeight": "{font-weight.emphasized}",
+              "lineHeight": "{line-height.default}",
+              "fontSize": "{title.m}"
+            },
+            "type": "typography"
+          }
+        },
+        "s": {
+          "default": {
+            "value": {
+              "fontFamily": "{en.default}",
+              "fontWeight": "{font-weight.default}",
+              "lineHeight": "{line-height.default}",
+              "fontSize": "{title.s}"
+            },
+            "type": "typography"
+          },
+          "emphasized": {
+            "value": {
+              "fontFamily": "{en.default}",
+              "fontWeight": "{font-weight.emphasized}",
+              "lineHeight": "{line-height.default}",
+              "fontSize": "{title.s}"
+            },
+            "type": "typography"
+          }
+        },
+        "l": {
+          "default": {
+            "value": {
+              "fontFamily": "{en.default}",
+              "fontWeight": "{font-weight.default}",
+              "lineHeight": "{line-height.default}",
+              "fontSize": "{title.l}"
+            },
+            "type": "typography"
+          },
+          "emphasized": {
+            "value": {
+              "fontFamily": "{en.default}",
+              "fontWeight": "{font-weight.emphasized}",
+              "lineHeight": "{line-height.default}",
+              "fontSize": "{title.l}"
             },
             "type": "typography"
           }
@@ -3831,6 +3899,10 @@
         "value": "{semantic.primary.enabled}",
         "type": "color"
       },
+      "rate": {
+        "value": "{palette.orange.6}",
+        "type": "color"
+      },
       "pending": {
         "enabled": {
           "value": "{palette.neutral.5}",
@@ -3862,7 +3934,7 @@
         "type": "color"
       },
       "range": {
-        "value": "{palette.neutral.3}",
+        "value": "{palette.neutral.4}",
         "type": "color"
       }
     },
@@ -4340,6 +4412,32 @@
         "small": {
           "value": "-24",
           "type": "spacing"
+        }
+      }
+    },
+    "picker": {
+      "bg": {
+        "hovered": {
+          "value": "{surface.filless}",
+          "type": "color"
+        },
+        "selected": {
+          "value": "{palette.neutral.2}",
+          "type": "color"
+        }
+      },
+      "bg-on": {
+        "enabled": {
+          "value": "{text.regular.secondary}",
+          "type": "color"
+        },
+        "hovered": {
+          "value": "{text.regular.hovered}",
+          "type": "color"
+        },
+        "selected": {
+          "value": "{text.regular.primary}",
+          "type": "color"
         }
       }
     }
