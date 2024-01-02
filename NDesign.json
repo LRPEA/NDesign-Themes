@@ -3880,7 +3880,7 @@
         "type": "color"
       },
       "warning": {
-        "value": "{palette.warning.5}",
+        "value": "{palette.warning.6}",
         "type": "color"
       },
       "info": {
