@@ -1810,27 +1810,9 @@
         }
       },
       "neutral": {
-        "bold": {
-          "enabled": {
-            "value": "{palette.neutral.7}",
-            "type": "color"
-          },
-          "hovered": {
-            "value": "{palette.neutral.8}",
-            "type": "color"
-          },
-          "pressed": {
-            "value": "{palette.neutral.6}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{palette.neutral.4}",
-            "type": "color"
-          }
-        },
         "subtle": {
           "enabled": {
-            "value": "{palette.neutral.3}",
+            "value": "{palette.neutral.2}",
             "type": "color"
           },
           "hovered": {
@@ -1838,7 +1820,7 @@
             "type": "color"
           },
           "pressed": {
-            "value": "{palette.neutral.4}",
+            "value": "{palette.neutral.3}",
             "type": "color"
           },
           "disabled": {
@@ -1848,11 +1830,11 @@
         },
         "filless": {
           "hovered": {
-            "value": "{palette.neutral.3}",
+            "value": "{palette.neutral.2}",
             "type": "color"
           },
           "pressed": {
-            "value": "{palette.neutral.4}",
+            "value": "{palette.neutral.3}",
             "type": "color"
           }
         },
@@ -1862,11 +1844,11 @@
             "type": "color"
           },
           "hovered": {
-            "value": "{text.regular.primary}",
+            "value": "{text.regular.hovered}",
             "type": "color"
           },
           "pressed": {
-            "value": "{text.regular.primary}",
+            "value": "{text.regular.pressed}",
             "type": "color"
           },
           "disabled": {
@@ -1874,21 +1856,21 @@
             "type": "color"
           }
         },
-        "bold-on": {
+        "bold": {
           "enabled": {
-            "value": "{text.regular.primary}",
+            "value": "{palette.neutral.4}",
             "type": "color"
           },
           "hovered": {
-            "value": "{text.regular.primary}",
+            "value": "{palette.neutral.4}",
             "type": "color"
           },
           "pressed": {
-            "value": "{text.regular.primary}",
+            "value": "{palette.neutral.4}",
             "type": "color"
           },
-          "disabled": {
-            "value": "{text.regular.disabled}",
+          "dissabled": {
+            "value": "{palette.neutral.3}",
             "type": "color"
           }
         }
