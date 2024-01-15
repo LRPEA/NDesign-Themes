@@ -1873,6 +1873,24 @@
             "value": "{text.regular.disabled}",
             "type": "color"
           }
+        },
+        "bold": {
+          "enabled": {
+            "value": "{palette.neutral.5}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{palette.neutral.5}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{palette.neutral.6}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{palette.neutral.4}",
+            "type": "color"
+          }
         }
       },
       "success": {
@@ -2014,7 +2032,7 @@
             "type": "color"
           }
         },
-        "on-primary": {
+        "on-danger": {
           "enabled": {
             "value": "{text.danger.enabled}",
             "type": "color"
@@ -2032,7 +2050,7 @@
             "type": "color"
           }
         },
-        "filless": {
+        "quiet": {
           "hovered": {
             "value": "{palette.danger.1}",
             "type": "color"
@@ -2062,7 +2080,7 @@
             "type": "color"
           }
         },
-        "bold-on": {
+        "on-bold": {
           "enabled": {
             "value": "{palette.fundamentals.white}",
             "type": "color"
@@ -2080,7 +2098,7 @@
             "type": "color"
           }
         },
-        "subtle": {
+        "tinted": {
           "enabled": {
             "value": "{surface.warning.lightest}",
             "type": "color"
@@ -2098,7 +2116,7 @@
             "type": "color"
           }
         },
-        "on": {
+        "on-warning": {
           "enabled": {
             "value": "{text.warning.enabled}",
             "type": "color"
@@ -2116,7 +2134,7 @@
             "type": "color"
           }
         },
-        "filless": {
+        "quiet": {
           "hovered": {
             "value": "{palette.warning.1}",
             "type": "color"
@@ -2146,7 +2164,7 @@
             "type": "color"
           }
         },
-        "bold-on": {
+        "on-bold": {
           "enabled": {
             "value": "{palette.fundamentals.white}",
             "type": "color"
@@ -2164,7 +2182,7 @@
             "type": "color"
           }
         },
-        "subtle": {
+        "tinted": {
           "enabled": {
             "value": "{surface.info.lightest}",
             "type": "color"
@@ -2182,7 +2200,7 @@
             "type": "color"
           }
         },
-        "on": {
+        "on-info": {
           "enabled": {
             "value": "{text.info.enabled}",
             "type": "color"
@@ -2200,7 +2218,7 @@
             "type": "color"
           }
         },
-        "filless": {
+        "quiet": {
           "hovered": {
             "value": "{palette.info.1}",
             "type": "color"
