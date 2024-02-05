@@ -2329,32 +2329,16 @@
       }
     },
     "radius": {
-      "0": {
+      "zero": {
         "value": "0",
         "type": "borderRadius"
       },
-      "s": {
-        "value": "2",
-        "type": "borderRadius"
-      },
-      "m": {
-        "value": "4",
-        "type": "borderRadius"
-      },
-      "l": {
-        "value": "8",
-        "type": "borderRadius"
-      },
-      "xl": {
-        "value": "12",
-        "type": "borderRadius"
-      },
-      "circle": {
+      "round": {
         "value": "999",
         "type": "borderRadius"
       },
       "default": {
-        "value": "{radius.m}",
+        "value": "4",
         "type": "borderRadius"
       },
       "time": {
@@ -2362,6 +2346,22 @@
         "type": "borderRadius"
       },
       "container": {
+        "value": "{radius.default}",
+        "type": "borderRadius"
+      },
+      "avatar": {
+        "value": "{radius.round}",
+        "type": "borderRadius"
+      },
+      "input": {
+        "value": "{radius.default}",
+        "type": "borderRadius"
+      },
+      "button": {
+        "value": "{radius.default}",
+        "type": "borderRadius"
+      },
+      "checkbox": {
         "value": "{radius.default}",
         "type": "borderRadius"
       }
