@@ -1,5 +1,5 @@
 {
-  "NDesign-Light": {
+  "EDA-Light": {
     "palette": {
       "danger": {
         "1": {
@@ -4475,7 +4475,7 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "NDesign-Light"
+      "EDA-Light"
     ]
   }
 }
