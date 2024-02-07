@@ -4416,15 +4416,15 @@
     "size": {
       "input": {
         "large": {
-          "value": "40",
+          "value": "48",
           "type": "sizing"
         },
         "medium": {
-          "value": "32",
+          "value": "40",
           "type": "sizing"
         },
         "small": {
-          "value": "24",
+          "value": "32",
           "type": "sizing"
         }
       }
