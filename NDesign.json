@@ -4288,7 +4288,7 @@
           "type": "color"
         }
       },
-      "bg-on": {
+      "on-bg": {
         "hovered": {
           "value": "{text.regular.hovered}",
           "type": "color"
