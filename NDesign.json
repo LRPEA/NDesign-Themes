@@ -4288,7 +4288,7 @@
           "type": "color"
         }
       },
-      "on-bg": {
+      "on-menu": {
         "hovered": {
           "value": "{text.regular.hovered}",
           "type": "color"
@@ -4456,7 +4456,7 @@
           "type": "color"
         }
       },
-      "bg-on": {
+      "on-picker": {
         "enabled": {
           "value": "{text.regular.secondary}",
           "type": "color"
