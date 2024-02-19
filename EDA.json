@@ -601,43 +601,43 @@
       },
       "green": {
         "1": {
-          "value": "#EBFAF0",
+          "value": "#D8F3E5",
           "type": "color"
         },
         "2": {
-          "value": "#C6ECD3",
+          "value": "#ACF6BC",
           "type": "color"
         },
         "3": {
-          "value": "#8BD5A6",
+          "value": "#87F8B3",
           "type": "color"
         },
         "4": {
-          "value": "#72CA92",
+          "value": "#88ECAE",
           "type": "color"
         },
         "5": {
-          "value": "#4ABA73",
+          "value": "#26CF8B",
           "type": "color"
         },
         "6": {
-          "value": "#22AA54",
+          "value": "#00C37D",
           "type": "color"
         },
         "7": {
-          "value": "#1C8D46",
+          "value": "#00A56E",
           "type": "color"
         },
         "8": {
-          "value": "#166F37",
+          "value": "#00885F",
           "type": "color"
         },
         "9": {
-          "value": "#105128",
+          "value": "#006A4E",
           "type": "color"
         },
         "10": {
-          "value": "#0A3319",
+          "value": "#004D3B",
           "type": "color"
         }
       },
@@ -685,7 +685,7 @@
       },
       "azure": {
         "1": {
-          "value": "#EBF8FE",
+          "value": "#E8FFFE",
           "type": "color"
         },
         "2": {
