@@ -1483,22 +1483,6 @@
       },
       "colorful-3": {
         "enabled": {
-          "value": "{palette.fuchsia.6}",
-          "type": "color",
-          "hovered": {
-            "value": "{palette.success.5}",
-            "type": "color"
-          },
-          "pressed": {
-            "value": "{palette.success.7}",
-            "type": "color"
-          },
-          "actived": {
-            "value": "{palette.success.7}",
-            "type": "color"
-          }
-        },
-        "hovered": {
           "value": "{palette.fuchsia.7}",
           "type": "color",
           "hovered": {
@@ -1514,8 +1498,24 @@
             "type": "color"
           }
         },
+        "hovered": {
+          "value": "{palette.fuchsia.8}",
+          "type": "color",
+          "hovered": {
+            "value": "{palette.success.5}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{palette.success.7}",
+            "type": "color"
+          },
+          "actived": {
+            "value": "{palette.success.7}",
+            "type": "color"
+          }
+        },
         "pressed": {
-          "value": "{palette.fuchsia.5}",
+          "value": "{palette.fuchsia.6}",
           "type": "color",
           "hovered": {
             "value": "{palette.success.5}",
@@ -1597,22 +1597,6 @@
       },
       "colorful-4": {
         "enabled": {
-          "value": "{palette.purple.6}",
-          "type": "color",
-          "hovered": {
-            "value": "{palette.success.5}",
-            "type": "color"
-          },
-          "pressed": {
-            "value": "{palette.success.7}",
-            "type": "color"
-          },
-          "actived": {
-            "value": "{palette.success.7}",
-            "type": "color"
-          }
-        },
-        "hovered": {
           "value": "{palette.purple.7}",
           "type": "color",
           "hovered": {
@@ -1628,8 +1612,24 @@
             "type": "color"
           }
         },
+        "hovered": {
+          "value": "{palette.purple.8}",
+          "type": "color",
+          "hovered": {
+            "value": "{palette.success.5}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{palette.success.7}",
+            "type": "color"
+          },
+          "actived": {
+            "value": "{palette.success.7}",
+            "type": "color"
+          }
+        },
         "pressed": {
-          "value": "{palette.purple.5}",
+          "value": "{palette.purple.6}",
           "type": "color",
           "hovered": {
             "value": "{palette.success.5}",
