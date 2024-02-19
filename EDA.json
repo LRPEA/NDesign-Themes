@@ -339,43 +339,43 @@
       },
       "fuchsia": {
         "1": {
-          "value": "#FCF2F9",
+          "value": "#FFE8ED",
           "type": "color"
         },
         "2": {
-          "value": "#FAD1EB",
+          "value": "#FFD3DE",
           "type": "color"
         },
         "3": {
-          "value": "#F799D7",
+          "value": "#FFBFD0",
           "type": "color"
         },
         "4": {
-          "value": "#F571C8",
+          "value": "#FFAAC4",
           "type": "color"
         },
         "5": {
-          "value": "#F249B9",
+          "value": "#FF96B9",
           "type": "color"
         },
         "6": {
-          "value": "#E425A5",
+          "value": "#FF81B0",
           "type": "color"
         },
         "7": {
-          "value": "#BB1F88",
+          "value": "#D25084",
           "type": "color"
         },
         "8": {
-          "value": "#92186A",
+          "value": "#A62A60",
           "type": "color"
         },
         "9": {
-          "value": "#69114C",
+          "value": "#790F41",
           "type": "color"
         },
         "10": {
-          "value": "#400A2E",
+          "value": "#4D0026",
           "type": "color"
         }
       },
