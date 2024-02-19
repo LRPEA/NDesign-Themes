@@ -3897,7 +3897,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{palette.brand.3}",
+          "value": "{palette.neutral.5}",
           "type": "color"
         }
       },
