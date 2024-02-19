@@ -1245,11 +1245,11 @@
       },
       "selected": {
         "bg": {
-          "value": "{palette.green.1}",
+          "value": "{palette.brand.1}",
           "type": "color"
         },
         "on": {
-          "value": "{text.regular.primary}",
+          "value": "{palette.brand.7}",
           "type": "color"
         }
       },
