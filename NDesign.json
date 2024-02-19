@@ -3981,35 +3981,37 @@
       }
     },
     "form": {
-      "bg": {
-        "default": {
-          "value": "{surface.filless}",
-          "type": "color"
-        },
-        "hovered": {
-          "value": "{surface.filless}",
-          "type": "color"
-        },
-        "actived": {
-          "value": "{surface.filless}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{surface.disabled}",
-          "type": "color"
-        },
-        "success": {
-          "value": "{surface.filless}",
-          "type": "color"
-        },
-        "danger": {
-          "value": "{surface.filless}",
-          "type": "color"
-        },
-        "warning": {
-          "value": "{surface.filless}",
-          "type": "color"
-        }
+      "enabled": {
+        "value": "{surface.filless}",
+        "type": "color"
+      },
+      "hovered": {
+        "value": "{surface.filless}",
+        "type": "color"
+      },
+      "pressed": {
+        "value": "{surface.filless}",
+        "type": "color"
+      },
+      "actived": {
+        "value": "{surface.filless}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{surface.disabled}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{surface.filless}",
+        "type": "color"
+      },
+      "danger": {
+        "value": "{surface.filless}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{surface.filless}",
+        "type": "color"
       }
     },
     "checkbox": {
