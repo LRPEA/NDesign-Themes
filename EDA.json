@@ -2358,7 +2358,7 @@
         "type": "borderRadius"
       },
       "button-s": {
-        "value": "{radius.default}",
+        "value": "8",
         "type": "borderRadius"
       },
       "button-m": {
@@ -2370,7 +2370,7 @@
         "type": "borderRadius"
       },
       "checkbox": {
-        "value": "{radius.default}",
+        "value": "4",
         "type": "borderRadius"
       }
     },
