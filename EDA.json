@@ -1830,19 +1830,19 @@
       "neutral": {
         "subtle": {
           "enabled": {
-            "value": "{palette.neutral.2}",
+            "value": "{palette.black.2}",
             "type": "color"
           },
           "hovered": {
-            "value": "{palette.neutral.2}",
+            "value": "{palette.black.2}",
             "type": "color"
           },
           "pressed": {
-            "value": "{palette.neutral.3}",
+            "value": "{palette.black.3}",
             "type": "color"
           },
           "disabled": {
-            "value": "{palette.neutral.2}",
+            "value": "{palette.black.2}",
             "type": "color"
           }
         },
