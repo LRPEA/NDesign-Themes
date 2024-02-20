@@ -1754,7 +1754,7 @@
             "type": "color"
           },
           "pressed": {
-            "value": "{text.white.primary}",
+            "value": "{palette.brand.10}",
             "type": "color"
           },
           "disabled": {
