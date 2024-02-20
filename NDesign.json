@@ -3981,6 +3981,7 @@
       }
     },
     "form": {
+<<<<<<< HEAD
       "bg": {
         "default": {
           "value": "{surface.filless}",
@@ -4017,6 +4018,46 @@
         "value": "{palette.brand.6}",
         "type": "color"
       },
+=======
+      "enabled": {
+        "value": "{surface.filless}",
+        "type": "color"
+      },
+      "hovered": {
+        "value": "{surface.filless}",
+        "type": "color"
+      },
+      "pressed": {
+        "value": "{surface.filless}",
+        "type": "color"
+      },
+      "actived": {
+        "value": "{surface.filless}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{surface.disabled}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{surface.filless}",
+        "type": "color"
+      },
+      "danger": {
+        "value": "{surface.filless}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{surface.filless}",
+        "type": "color"
+      }
+    },
+    "checkbox": {
+      "selected": {
+        "value": "{palette.brand.6}",
+        "type": "color"
+      },
+>>>>>>> parent of 7430ddf (先保存一下)
       "pressed": {
         "value": "{palette.brand.2}",
         "type": "color"
