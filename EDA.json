@@ -2338,7 +2338,7 @@
         "type": "borderRadius"
       },
       "default": {
-        "value": "4",
+        "value": "12",
         "type": "borderRadius"
       },
       "time": {
