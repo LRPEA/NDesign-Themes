@@ -2206,11 +2206,11 @@
             "type": "color"
           },
           "hovered": {
-            "value": "{palette.info.8}",
+            "value": "{text.info.hovered}",
             "type": "color"
           },
           "pressed": {
-            "value": "{palette.info.8}",
+            "value": "{text.info.pressed}",
             "type": "color"
           },
           "disabled": {
