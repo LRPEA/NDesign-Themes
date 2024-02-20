@@ -1810,19 +1810,19 @@
         },
         "on-tinted": {
           "enabled": {
-            "value": "{palette.neutral.8}",
+            "value": "{text.regular.primary}",
             "type": "color"
           },
           "hovered": {
-            "value": "{palette.neutral.8}",
+            "value": "{text.regular.primary}",
             "type": "color"
           },
           "pressed": {
-            "value": "{palette.neutral.8}",
+            "value": "{text.regular.primary}",
             "type": "color"
           },
           "disabled": {
-            "value": "{palette.neutral.5}",
+            "value": "{text.regular.disabled}",
             "type": "color"
           }
         }
