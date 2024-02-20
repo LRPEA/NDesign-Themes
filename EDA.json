@@ -2390,20 +2390,20 @@
           "value": "{surface.container.default}",
           "type": "color"
         },
-        "title-bar": {
-          "value": "{surface.container.default}",
-          "type": "color"
-        },
-        "darkest": {
-          "value": "{palette.neutral.3}",
-          "type": "color"
-        },
         "lightest": {
           "value": "{surface.container.default}",
           "type": "color"
         },
         "darker": {
           "value": "{palette.neutral.2}",
+          "type": "color"
+        },
+        "darkest": {
+          "value": "{palette.neutral.3}",
+          "type": "color"
+        },
+        "title-bar": {
+          "value": "{surface.container.default}",
           "type": "color"
         },
         "top-bar": {
