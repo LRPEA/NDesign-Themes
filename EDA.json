@@ -761,7 +761,7 @@
           "type": "color"
         },
         "processing": {
-          "value": "{palette.brand.6}",
+          "value": "{palette.neutral.6}",
           "type": "color"
         }
       },
