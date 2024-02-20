@@ -1800,11 +1800,11 @@
         },
         "quiet": {
           "hovered": {
-            "value": "{palette.brand.1}",
+            "value": "{palette.black.2}",
             "type": "color"
           },
           "pressed": {
-            "value": "{palette.brand.2}",
+            "value": "{palette.black.3}",
             "type": "color"
           }
         },
