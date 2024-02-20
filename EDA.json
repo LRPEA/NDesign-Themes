@@ -617,7 +617,7 @@
           "type": "color"
         },
         "5": {
-          "value": "#26CF8B",
+          "value": "#54D781",
           "type": "color"
         },
         "6": {
@@ -637,7 +637,7 @@
           "type": "color"
         },
         "10": {
-          "value": "#004D3B",
+          "value": "#1E574D",
           "type": "color"
         }
       },
@@ -1728,19 +1728,19 @@
       "primary": {
         "bold": {
           "enabled": {
-            "value": "{semantic.primary.enabled}",
+            "value": "linear-gradient (90deg, {palette.brand.5} 0%, {palette.brand.6} 100%)",
             "type": "color"
           },
           "hovered": {
-            "value": "{semantic.primary.hovered}",
+            "value": "linear-gradient (90deg, #69dc82 0%, #2acd7f 50%)",
             "type": "color"
           },
           "pressed": {
-            "value": "{semantic.primary.pressed}",
+            "value": "{palette.brand.6}",
             "type": "color"
           },
           "disabled": {
-            "value": "{semantic.primary.disabled}",
+            "value": "#A2E7CB",
             "type": "color"
           }
         },
