@@ -2357,7 +2357,15 @@
         "value": "{radius.default}",
         "type": "borderRadius"
       },
-      "button": {
+      "button-s": {
+        "value": "{radius.default}",
+        "type": "borderRadius"
+      },
+      "button-m": {
+        "value": "{radius.default}",
+        "type": "borderRadius"
+      },
+      "button-l": {
         "value": "{radius.default}",
         "type": "borderRadius"
       },
