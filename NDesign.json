@@ -3982,6 +3982,7 @@
     },
     "form": {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "bg": {
         "default": {
           "value": "{surface.filless}",
@@ -4027,6 +4028,16 @@
         "value": "{surface.filless}",
         "type": "color"
       },
+=======
+      "enabled": {
+        "value": "{surface.filless}",
+        "type": "color"
+      },
+      "hovered": {
+        "value": "{surface.filless}",
+        "type": "color"
+      },
+>>>>>>> parent of 7430ddf (先保存一下)
       "pressed": {
         "value": "{surface.filless}",
         "type": "color"
@@ -4057,6 +4068,9 @@
         "value": "{palette.brand.6}",
         "type": "color"
       },
+<<<<<<< HEAD
+>>>>>>> parent of 7430ddf (先保存一下)
+=======
 >>>>>>> parent of 7430ddf (先保存一下)
       "pressed": {
         "value": "{palette.brand.2}",
