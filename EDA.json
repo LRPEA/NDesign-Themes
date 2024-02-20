@@ -1866,7 +1866,7 @@
             "type": "color"
           },
           "pressed": {
-            "value": "{text.regular.pressed}",
+            "value": "{text.regular.tertiary}",
             "type": "color"
           },
           "disabled": {
@@ -1884,11 +1884,11 @@
             "type": "color"
           },
           "pressed": {
-            "value": "{palette.neutral.6}",
+            "value": "{palette.neutral.5}",
             "type": "color"
           },
           "disabled": {
-            "value": "{palette.neutral.4}",
+            "value": "{palette.neutral.2}",
             "type": "color"
           }
         }
@@ -2574,11 +2574,11 @@
         }
       },
       "lightest": {
-        "value": "{palette.neutral.3}",
+        "value": "{palette.neutral.1}",
         "type": "color"
       },
       "lighter": {
-        "value": "{palette.neutral.4}",
+        "value": "{palette.neutral.2}",
         "type": "color"
       },
       "normal": {
@@ -2586,7 +2586,7 @@
         "type": "color"
       },
       "darker": {
-        "value": "{palette.neutral.7}",
+        "value": "{palette.neutral.6}",
         "type": "color"
       },
       "success": {
