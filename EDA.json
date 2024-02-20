@@ -1954,11 +1954,11 @@
             "type": "color"
           },
           "hovered": {
-            "value": "{palette.success.8}",
+            "value": "{text.success.hovered}",
             "type": "color"
           },
           "pressed": {
-            "value": "{palette.success.8}",
+            "value": "{text.success.pressed}",
             "type": "color"
           },
           "disabled": {
@@ -2038,11 +2038,11 @@
             "type": "color"
           },
           "hovered": {
-            "value": "{palette.danger.8}",
+            "value": "{text.danger.hovered}",
             "type": "color"
           },
           "pressed": {
-            "value": "{palette.danger.8}",
+            "value": "{text.danger.pressed}",
             "type": "color"
           },
           "disabled": {
@@ -2122,11 +2122,11 @@
             "type": "color"
           },
           "hovered": {
-            "value": "{palette.warning.8}",
+            "value": "{text.warning.hovered}",
             "type": "color"
           },
           "pressed": {
-            "value": "{palette.warning.8}",
+            "value": "{text.warning.pressed}",
             "type": "color"
           },
           "disabled": {
