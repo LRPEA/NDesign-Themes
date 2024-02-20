@@ -1794,7 +1794,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{text.primary.disabled}",
+            "value": "#A2E7CB",
             "type": "color"
           }
         },
