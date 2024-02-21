@@ -2518,7 +2518,7 @@
         "type": "color"
       },
       "disabled": {
-        "value": "{palette.neutral.2}",
+        "value": "{palette.black.2}",
         "type": "color"
       },
       "overlay": {
