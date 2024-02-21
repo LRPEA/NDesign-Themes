@@ -2377,7 +2377,7 @@
     "surface": {
       "page": {
         "default": {
-          "value": "{palette.fundamentals.white}",
+          "value": "{palette.neutral.1}",
           "type": "color"
         }
       },
