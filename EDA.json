@@ -4107,7 +4107,7 @@
         "type": "color"
       },
       "animation": {
-        "value": "linear-gradient (90deg, {palette.neutral.2} 0%, {palette.neutral.4} 100%)",
+        "value": "linear-gradient (90deg, {palette.black.2} 0%, {palette.black.4} 100%)",
         "type": "color"
       }
     },
