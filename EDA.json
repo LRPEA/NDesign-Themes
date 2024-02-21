@@ -2406,15 +2406,15 @@
           "value": "{surface.container.default}",
           "type": "color"
         },
+        "navigation-bar": {
+          "value": "{surface.container.default}",
+          "type": "color"
+        },
         "top-bar": {
           "value": "{surface.container.default}",
           "type": "color"
         },
         "bottom-bar": {
-          "value": "{surface.container.default}",
-          "type": "color"
-        },
-        "navigation-bar": {
           "value": "{surface.container.default}",
           "type": "color"
         }
