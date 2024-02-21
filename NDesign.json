@@ -3587,70 +3587,86 @@
         "type": "border"
       },
       "form": {
-        "enabled": {
-          "value": {
-            "color": "{border.normal}",
-            "width": "{border-width.default}"
+        "default": {
+          "enabled": {
+            "value": {
+              "color": "{border.normal}",
+              "width": "{border-width.default}"
+            },
+            "type": "border"
           },
-          "type": "border"
+          "hovered": {
+            "value": {
+              "color": "{border.primary.dark}",
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          },
+          "actived": {
+            "value": {
+              "color": "{border.primary.dark}",
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          },
+          "disabled": {
+            "value": {
+              "color": "{border.lighter}",
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          },
+          "success": {
+            "value": {
+              "color": "{border.success}",
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          },
+          "danger": {
+            "value": {
+              "color": "{border.danger}",
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          },
+          "warning": {
+            "value": {
+              "color": "{border.warning}",
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          }
         },
-        "hovered": {
-          "value": {
-            "color": "{border.primary.dark}",
-            "width": "{border-width.default}"
+        "checked": {
+          "enabled": {
+            "value": {
+              "width": "{border-width.borderless}",
+              "color": ""
+            },
+            "type": "border"
           },
-          "type": "border"
-        },
-        "actived": {
-          "value": {
-            "color": "{border.primary.dark}",
-            "width": "{border-width.default}"
+          "hovered": {
+            "value": {
+              "width": "{border-width.borderless}",
+              "color": ""
+            },
+            "type": "border"
           },
-          "type": "border"
-        },
-        "disabled": {
-          "value": {
-            "color": "{border.lighter}",
-            "width": "{border-width.default}"
+          "pressed": {
+            "value": {
+              "width": "{border-width.borderless}",
+              "color": ""
+            },
+            "type": "border"
           },
-          "type": "border"
-        },
-        "success": {
-          "value": {
-            "color": "{border.success}",
-            "width": "{border-width.default}"
-          },
-          "type": "border"
-        },
-        "danger": {
-          "value": {
-            "color": "{border.danger}",
-            "width": "{border-width.default}"
-          },
-          "type": "border"
-        },
-        "warning": {
-          "value": {
-            "color": "{border.warning}",
-            "width": "{border-width.default}"
-          },
-          "type": "border"
-        }
-      },
-      "checkbox": {
-        "selected": {
-          "value": {
-            "width": "{border-width.borderless}",
-            "color": ""
-          },
-          "type": "border"
-        },
-        "pressed": {
-          "value": {
-            "width": "{border-width.default}",
-            "color": "{palette.brand.7}"
-          },
-          "type": "border"
+          "disabled": {
+            "value": {
+              "width": "{border-width.borderless}",
+              "color": ""
+            },
+            "type": "border"
+          }
         }
       },
       "tag": {
@@ -3981,12 +3997,16 @@
       }
     },
     "form": {
-      "bg": {
+      "default": {
         "default": {
           "value": "{surface.filless}",
           "type": "color"
         },
         "hovered": {
+          "value": "{surface.filless}",
+          "type": "color"
+        },
+        "pressed": {
           "value": "{surface.filless}",
           "type": "color"
         },
@@ -4010,52 +4030,42 @@
           "value": "{surface.filless}",
           "type": "color"
         }
-      }
-    },
-    "checkbox": {
-      "selected": {
-        "value": "{palette.brand.6}",
-        "type": "color"
       },
-      "enabled": {
-        "value": "{surface.filless}",
-        "type": "color"
+      "checked": {
+        "enabled": {
+          "value": "{palette.brand.6}",
+          "type": "color"
+        },
+        "hovered": {
+          "value": "{palette.brand.5}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{palette.brand.7}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{palette.brand.3}",
+          "type": "color"
+        }
       },
-      "hovered": {
-        "value": "{surface.filless}",
-        "type": "color"
-      },
-      "enabled": {
-        "value": "{surface.filless}",
-        "type": "color"
-      },
-      "hovered": {
-        "value": "{surface.filless}",
-        "type": "color"
-      },
-      "pressed": {
-        "value": "{surface.filless}",
-        "type": "color"
-      },
-      "actived": {
-        "value": "{surface.filless}",
-        "type": "color"
-      },
-      "disabled": {
-        "value": "{surface.disabled}",
-        "type": "color"
-      },
-      "success": {
-        "value": "{surface.filless}",
-        "type": "color"
-      },
-      "danger": {
-        "value": "{surface.filless}",
-        "type": "color"
-      },
-      "warning": {
-        "value": "{surface.filless}",
-        "type": "color"
+      "on-checked": {
+        "enabled": {
+          "value": "{text.white.primary}",
+          "type": "color"
+        },
+        "hovered": {
+          "value": "{text.white.primary}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{text.white.tertiary}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{text.white.primary}",
+          "type": "color"
+        }
       }
     },
     "shadow": {
