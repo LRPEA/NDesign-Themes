@@ -2522,7 +2522,7 @@
         "type": "color"
       },
       "overlay": {
-        "value": "{surface.page.default}",
+        "value": "{surface.container.default}",
         "type": "color"
       },
       "mask": {
