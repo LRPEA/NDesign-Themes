@@ -4288,15 +4288,15 @@
     "menu": {
       "bg": {
         "hovered": {
-          "value": "{palette.neutral.1}",
+          "value": "{palette.brand.1}",
           "type": "color"
         },
         "pressed": {
-          "value": "{palette.neutral.2}",
+          "value": "{palette.brand.1}",
           "type": "color"
         },
         "selected": {
-          "value": "{palette.brand.1}",
+          "value": "{surface.filless}",
           "type": "color"
         }
       },
