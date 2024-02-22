@@ -3602,6 +3602,13 @@
             },
             "type": "border"
           },
+          "pressed": {
+            "value": {
+              "color": "{border.primary.dark}",
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          },
           "actived": {
             "value": {
               "color": "{border.primary.dark}",
@@ -3639,6 +3646,36 @@
           }
         },
         "checked": {
+          "enabled": {
+            "value": {
+              "width": "{border-width.borderless}",
+              "color": ""
+            },
+            "type": "border"
+          },
+          "hovered": {
+            "value": {
+              "width": "{border-width.borderless}",
+              "color": ""
+            },
+            "type": "border"
+          },
+          "pressed": {
+            "value": {
+              "width": "{border-width.borderless}",
+              "color": ""
+            },
+            "type": "border"
+          },
+          "disabled": {
+            "value": {
+              "width": "{border-width.borderless}",
+              "color": ""
+            },
+            "type": "border"
+          }
+        },
+        "selected": {
           "enabled": {
             "value": {
               "width": "{border-width.borderless}",
@@ -4059,7 +4096,43 @@
           "type": "color"
         },
         "pressed": {
-          "value": "{text.white.tertiary}",
+          "value": "{text.white.primary}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{text.white.primary}",
+          "type": "color"
+        }
+      },
+      "selected": {
+        "enabled": {
+          "value": "{palette.brand.6}",
+          "type": "color"
+        },
+        "hovered": {
+          "value": "{palette.brand.5}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{palette.brand.7}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{palette.brand.3}",
+          "type": "color"
+        }
+      },
+      "on-selected": {
+        "enabled": {
+          "value": "{text.white.primary}",
+          "type": "color"
+        },
+        "hovered": {
+          "value": "{text.white.primary}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{text.white.primary}",
           "type": "color"
         },
         "disabled": {
