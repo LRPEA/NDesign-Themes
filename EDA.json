@@ -4146,7 +4146,7 @@
           "type": "color"
         },
         "subtle": {
-          "value": "{palette.neutral.2}",
+          "value": "{palette.black.2}",
           "type": "color"
         },
         "disabled": {
