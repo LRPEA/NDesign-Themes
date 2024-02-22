@@ -4230,7 +4230,7 @@
       },
       "colorful-1": {
         "bold": {
-          "value": "{palette.yellow.4}",
+          "value": "{palette.yellow.5}",
           "type": "color"
         },
         "subtle": {
@@ -4244,15 +4244,15 @@
       },
       "colorful-2": {
         "bold": {
-          "value": "{palette.chartreuse.5}",
+          "value": "{palette.blue.5}",
           "type": "color"
         },
         "subtle": {
-          "value": "{palette.chartreuse.1}",
+          "value": "{palette.blue.1}",
           "type": "color"
         },
         "disabled": {
-          "value": "rgba({palette.chartreuse.6},0.1)",
+          "value": "rgba( {palette.blue.6} ,0.1)",
           "type": "color"
         }
       },
