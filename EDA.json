@@ -4113,11 +4113,11 @@
     },
     "tab": {
       "enabled": {
-        "value": "{palette.neutral.2}",
+        "value": "{palette.black.2}",
         "type": "color"
       },
       "hovered": {
-        "value": "{palette.neutral.1}",
+        "value": "{palette.black.2}",
         "type": "color"
       },
       "actived": {
@@ -4134,7 +4134,7 @@
           "type": "color"
         },
         "text": {
-          "value": "{palette.neutral.2}",
+          "value": "{palette.black.2}",
           "type": "color"
         }
       }
