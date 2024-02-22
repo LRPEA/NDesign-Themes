@@ -559,7 +559,7 @@
       },
       "orange": {
         "1": {
-          "value": "#FFFAE8",
+          "value": "#FFF8DD",
           "type": "color"
         },
         "2": {
@@ -685,7 +685,7 @@
       },
       "azure": {
         "1": {
-          "value": "#E8FFFE",
+          "value": "#DFFBFA",
           "type": "color"
         },
         "2": {
