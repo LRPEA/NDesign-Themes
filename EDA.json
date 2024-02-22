@@ -1255,22 +1255,6 @@
       },
       "colorful-1": {
         "enabled": {
-          "value": "{palette.yellow.7}",
-          "type": "color",
-          "hovered": {
-            "value": "{palette.success.5}",
-            "type": "color"
-          },
-          "pressed": {
-            "value": "{palette.success.7}",
-            "type": "color"
-          },
-          "actived": {
-            "value": "{palette.success.7}",
-            "type": "color"
-          }
-        },
-        "hovered": {
           "value": "{palette.yellow.8}",
           "type": "color",
           "hovered": {
@@ -1286,8 +1270,24 @@
             "type": "color"
           }
         },
+        "hovered": {
+          "value": "{palette.yellow.9}",
+          "type": "color",
+          "hovered": {
+            "value": "{palette.success.5}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{palette.success.7}",
+            "type": "color"
+          },
+          "actived": {
+            "value": "{palette.success.7}",
+            "type": "color"
+          }
+        },
         "pressed": {
-          "value": "{palette.yellow.6}",
+          "value": "{palette.yellow.7}",
           "type": "color",
           "hovered": {
             "value": "{palette.success.5}",
@@ -1319,7 +1319,7 @@
           }
         },
         "dark": {
-          "value": "{palette.yellow.8}",
+          "value": "{palette.yellow.9}",
           "type": "color",
           "hovered": {
             "value": "{palette.success.5}",
@@ -1335,7 +1335,7 @@
           }
         },
         "medium": {
-          "value": "rgba( {palette.yellow.8} ,0.64)",
+          "value": "rgba( {palette.yellow.9} ,0.64)",
           "type": "color",
           "hovered": {
             "value": "{palette.success.5}",
@@ -1351,7 +1351,7 @@
           }
         },
         "light": {
-          "value": "rgba( {palette.yellow.8} ,0.36)",
+          "value": "rgba( {palette.yellow.9} ,0.36)",
           "type": "color",
           "hovered": {
             "value": "{palette.success.5}",
