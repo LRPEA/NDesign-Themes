@@ -4164,7 +4164,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "rgba( {palette.brand.6} ,0.10)",
+          "value": "rgba( {palette.brand.6} ,0.1)",
           "type": "color"
         },
         "checked": {
