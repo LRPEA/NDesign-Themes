@@ -389,11 +389,11 @@
           "type": "color"
         },
         "3": {
-          "value": "#EFEFF1",
+          "value": "#ECECF0",
           "type": "color"
         },
         "4": {
-          "value": "#E9E9ED",
+          "value": "#DBDBE4",
           "type": "color"
         },
         "5": {
@@ -3540,14 +3540,14 @@
       },
       "lightest": {
         "value": {
-          "color": "{palette.neutral.3}",
+          "color": "{palette.black.2}",
           "width": "{border-width.default}"
         },
         "type": "border"
       },
       "lighter": {
         "value": {
-          "color": "{palette.neutral.4}",
+          "color": "{palette.black.4}",
           "width": "{border-width.default}"
         },
         "type": "border"
