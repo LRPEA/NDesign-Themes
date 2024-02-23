@@ -3619,7 +3619,8 @@
           },
           "pressed": {
             "value": {
-              "color": "#"
+              "color": "{border.primary.dark}",
+              "width": "{border-width.default}"
             },
             "type": "border"
           },
@@ -3655,25 +3656,29 @@
         "checked": {
           "enabled": {
             "value": {
-              "color": "#"
+              "color": "",
+              "width": "{border-width.borderless}"
             },
             "type": "border"
           },
           "hovered": {
             "value": {
-              "color": "#"
+              "color": "",
+              "width": "{border-width.borderless}"
             },
             "type": "border"
           },
           "pressed": {
             "value": {
-              "color": "#"
+              "color": "",
+              "width": "{border-width.borderless}"
             },
             "type": "border"
           },
           "disabled": {
             "value": {
-              "color": "#"
+              "color": "",
+              "width": "{border-width.borderless}"
             },
             "type": "border"
           }
@@ -3681,25 +3686,29 @@
         "selected": {
           "enabled": {
             "value": {
-              "color": "#"
+              "color": "",
+              "width": "{border-width.borderless}"
             },
             "type": "border"
           },
           "hovered": {
             "value": {
-              "color": "#"
+              "color": "",
+              "width": "{border-width.borderless}"
             },
             "type": "border"
           },
           "pressed": {
             "value": {
-              "color": "#"
+              "color": "",
+              "width": "{border-width.borderless}"
             },
             "type": "border"
           },
           "disabled": {
             "value": {
-              "color": "#"
+              "color": "",
+              "width": "{border-width.borderless}"
             },
             "type": "border"
           }
@@ -4069,73 +4078,73 @@
       },
       "checked": {
         "enabled": {
-          "value": "#",
+          "value": "{palette.brand.6}",
           "type": "color"
         },
         "hovered": {
-          "value": "#",
+          "value": "{palette.brand.5}",
           "type": "color"
         },
         "pressed": {
-          "value": "#",
+          "value": "{palette.brand.7}",
           "type": "color"
         },
         "disabled": {
-          "value": "#",
+          "value": "{palette.brand.3}",
           "type": "color"
         }
       },
       "on-checked": {
         "enabled": {
-          "value": "#",
+          "value": "{text.white.primary}",
           "type": "color"
         },
         "hovered": {
-          "value": "#",
+          "value": "{text.white.primary}",
           "type": "color"
         },
         "pressed": {
-          "value": "#",
+          "value": "{text.white.primary}",
           "type": "color"
         },
         "disabled": {
-          "value": "#",
+          "value": "{text.white.primary}",
           "type": "color"
         }
       },
       "selected": {
         "enabled": {
-          "value": "#",
+          "value": "{palette.brand.6}",
           "type": "color"
         },
         "hovered": {
-          "value": "#",
+          "value": "{palette.brand.5}",
           "type": "color"
         },
         "pressed": {
-          "value": "#",
+          "value": "{palette.brand.7}",
           "type": "color"
         },
         "disabled": {
-          "value": "#",
+          "value": "{palette.brand.3}",
           "type": "color"
         }
       },
       "on-selected": {
         "enabled": {
-          "value": "#",
+          "value": "{text.white.primary}",
           "type": "color"
         },
         "hovered": {
-          "value": "#",
+          "value": "{text.white.primary}",
           "type": "color"
         },
         "pressed": {
-          "value": "#",
+          "value": "{text.white.primary}",
           "type": "color"
         },
         "disabled": {
-          "value": "#",
+          "value": "{text.white.primary}",
           "type": "color"
         }
       }
