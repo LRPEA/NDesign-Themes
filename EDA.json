@@ -2342,7 +2342,7 @@
         "type": "borderRadius"
       },
       "time": {
-        "value": "{radius.default}",
+        "value": "8",
         "type": "borderRadius"
       },
       "container": {
