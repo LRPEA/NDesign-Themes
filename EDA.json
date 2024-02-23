@@ -3953,6 +3953,164 @@
           },
           "type": "border"
         }
+      },
+      "btn": {
+        "primary": {
+          "enabled": {
+            "value": {
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          },
+          "hovered": {
+            "value": {
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          },
+          "pressed": {
+            "value": {
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          },
+          "disabled": {
+            "value": {
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          }
+        },
+        "neutral": {
+          "enabled": {
+            "value": {
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          },
+          "hovered": {
+            "value": {
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          },
+          "pressed": {
+            "value": {
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          },
+          "disabled": {
+            "value": {
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          }
+        },
+        "success": {
+          "enabled": {
+            "value": {
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          },
+          "hovered": {
+            "value": {
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          },
+          "pressed": {
+            "value": {
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          },
+          "disabled": {
+            "value": {
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          }
+        },
+        "danger": {
+          "enabled": {
+            "value": {
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          },
+          "hovered": {
+            "value": {
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          },
+          "pressed": {
+            "value": {
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          },
+          "disabled": {
+            "value": {
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          }
+        },
+        "warning": {
+          "enabled": {
+            "value": {
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          },
+          "hovered": {
+            "value": {
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          },
+          "pressed": {
+            "value": {
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          },
+          "disabled": {
+            "value": {
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          }
+        },
+        "info": {
+          "enabled": {
+            "value": {
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          },
+          "hovered": {
+            "value": {
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          },
+          "pressed": {
+            "value": {
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          },
+          "disabled": {
+            "value": {
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          }
+        }
       }
     },
     "semantic": {
