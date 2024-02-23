@@ -3958,25 +3958,29 @@
         "primary": {
           "enabled": {
             "value": {
-              "width": "{border-width.default}"
+              "width": "{border-width.default}",
+              "color": "{palette.brand.6}"
             },
             "type": "border"
           },
           "hovered": {
             "value": {
-              "width": "{border-width.default}"
+              "width": "{border-width.default}",
+              "color": "{palette.brand.5}"
             },
             "type": "border"
           },
           "pressed": {
             "value": {
-              "width": "{border-width.default}"
+              "width": "{border-width.default}",
+              "color": "{palette.brand.7}"
             },
             "type": "border"
           },
           "disabled": {
             "value": {
-              "width": "{border-width.default}"
+              "width": "{border-width.default}",
+              "color": "{palette.neutral.3}"
             },
             "type": "border"
           }
@@ -3984,25 +3988,29 @@
         "neutral": {
           "enabled": {
             "value": {
-              "width": "{border-width.default}"
+              "width": "{border-width.default}",
+              "color": "{palette.neutral.5}"
             },
             "type": "border"
           },
           "hovered": {
             "value": {
-              "width": "{border-width.default}"
+              "width": "{border-width.default}",
+              "color": "{palette.neutral.4}"
             },
             "type": "border"
           },
           "pressed": {
             "value": {
-              "width": "{border-width.default}"
+              "width": "{border-width.default}",
+              "color": "{palette.neutral.6}"
             },
             "type": "border"
           },
           "disabled": {
             "value": {
-              "width": "{border-width.default}"
+              "width": "{border-width.default}",
+              "color": "{palette.neutral.3}"
             },
             "type": "border"
           }
