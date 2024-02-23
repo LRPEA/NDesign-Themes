@@ -4018,25 +4018,29 @@
         "success": {
           "enabled": {
             "value": {
-              "width": "{border-width.default}"
+              "width": "{border-width.default}",
+              "color": "{palette.success.6}"
             },
             "type": "border"
           },
           "hovered": {
             "value": {
-              "width": "{border-width.default}"
+              "width": "{border-width.default}",
+              "color": "{palette.success.5}"
             },
             "type": "border"
           },
           "pressed": {
             "value": {
-              "width": "{border-width.default}"
+              "width": "{border-width.default}",
+              "color": "{palette.success.7}"
             },
             "type": "border"
           },
           "disabled": {
             "value": {
-              "width": "{border-width.default}"
+              "width": "{border-width.default}",
+              "color": "{palette.success.3}"
             },
             "type": "border"
           }
@@ -4044,25 +4048,29 @@
         "danger": {
           "enabled": {
             "value": {
-              "width": "{border-width.default}"
+              "width": "{border-width.default}",
+              "color": "{palette.danger.6}"
             },
             "type": "border"
           },
           "hovered": {
             "value": {
-              "width": "{border-width.default}"
+              "width": "{border-width.default}",
+              "color": "{palette.danger.5}"
             },
             "type": "border"
           },
           "pressed": {
             "value": {
-              "width": "{border-width.default}"
+              "width": "{border-width.default}",
+              "color": "{palette.danger.7}"
             },
             "type": "border"
           },
           "disabled": {
             "value": {
-              "width": "{border-width.default}"
+              "width": "{border-width.default}",
+              "color": "{palette.danger.3}"
             },
             "type": "border"
           }
@@ -4070,25 +4078,29 @@
         "warning": {
           "enabled": {
             "value": {
-              "width": "{border-width.default}"
+              "width": "{border-width.default}",
+              "color": "{palette.warning.6}"
             },
             "type": "border"
           },
           "hovered": {
             "value": {
-              "width": "{border-width.default}"
+              "width": "{border-width.default}",
+              "color": "{palette.warning.5}"
             },
             "type": "border"
           },
           "pressed": {
             "value": {
-              "width": "{border-width.default}"
+              "width": "{border-width.default}",
+              "color": "{palette.warning.7}"
             },
             "type": "border"
           },
           "disabled": {
             "value": {
-              "width": "{border-width.default}"
+              "width": "{border-width.default}",
+              "color": "{palette.warning.3}"
             },
             "type": "border"
           }
@@ -4096,25 +4108,29 @@
         "info": {
           "enabled": {
             "value": {
-              "width": "{border-width.default}"
+              "width": "{border-width.default}",
+              "color": "{palette.info.6}"
             },
             "type": "border"
           },
           "hovered": {
             "value": {
-              "width": "{border-width.default}"
+              "width": "{border-width.default}",
+              "color": "{palette.info.5}"
             },
             "type": "border"
           },
           "pressed": {
             "value": {
-              "width": "{border-width.default}"
+              "width": "{border-width.default}",
+              "color": "{palette.info.7}"
             },
             "type": "border"
           },
           "disabled": {
             "value": {
-              "width": "{border-width.default}"
+              "width": "{border-width.default}",
+              "color": "{palette.info.3}"
             },
             "type": "border"
           }
