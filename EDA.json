@@ -2593,6 +2593,22 @@
         "value": "{palette.neutral.4}",
         "type": "color"
       },
+      "darker": {
+        "value": "{palette.neutral.8}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{palette.success.6}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{palette.warning.6}",
+        "type": "color"
+      },
+      "danger": {
+        "value": "{palette.danger.6}",
+        "type": "color"
+      },
       "normal": {
         "enabled": {
           "value": "{palette.neutral.5}",
@@ -2614,22 +2630,6 @@
           "value": "{border.lighter}",
           "type": "color"
         }
-      },
-      "darker": {
-        "value": "{palette.neutral.8}",
-        "type": "color"
-      },
-      "success": {
-        "value": "{palette.success.6}",
-        "type": "color"
-      },
-      "warning": {
-        "value": "{palette.warning.6}",
-        "type": "color"
-      },
-      "danger": {
-        "value": "{palette.danger.6}",
-        "type": "color"
       }
     },
     "sc-win": {
