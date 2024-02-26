@@ -4223,41 +4223,37 @@
         "type": "color"
       }
     },
-    "form": {
+    "input": {
       "default": {
-        "default": {
-          "value": "{surface.filless}",
-          "type": "color"
-        },
-        "hovered": {
-          "value": "{surface.filless}",
-          "type": "color"
-        },
-        "pressed": {
-          "value": "{surface.filless}",
-          "type": "color"
-        },
-        "actived": {
-          "value": "{surface.filless}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{surface.disabled}",
-          "type": "color"
-        },
-        "success": {
-          "value": "{surface.filless}",
-          "type": "color"
-        },
-        "danger": {
-          "value": "{surface.filless}",
-          "type": "color"
-        },
-        "warning": {
-          "value": "{surface.filless}",
-          "type": "color"
-        }
+        "value": "{surface.filless}",
+        "type": "color"
       },
+      "hovered": {
+        "value": "{surface.filless}",
+        "type": "color"
+      },
+      "actived": {
+        "value": "{surface.filless}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{surface.disabled}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{surface.filless}",
+        "type": "color"
+      },
+      "danger": {
+        "value": "{surface.filless}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{surface.filless}",
+        "type": "color"
+      }
+    },
+    "checkbox": {
       "checked": {
         "enabled": {
           "value": "{palette.brand.6}",
@@ -4327,6 +4323,24 @@
         },
         "disabled": {
           "value": "{text.white.primary}",
+          "type": "color"
+        }
+      },
+      "default": {
+        "enabled": {
+          "value": "{input.default}",
+          "type": "color"
+        },
+        "hovered": {
+          "value": "{input.hovered}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{surface.disabled}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{input.disabled}",
           "type": "color"
         }
       }
