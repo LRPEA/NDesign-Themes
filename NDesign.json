@@ -4202,7 +4202,7 @@
           "type": "color"
         }
       },
-      "checkmark": {
+      "graphics": {
         "enabled": {
           "value": "{semantic.primary.enabled}",
           "type": "color"
