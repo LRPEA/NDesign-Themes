@@ -4403,6 +4403,16 @@
           "value": "{input.disabled}",
           "type": "color"
         }
+      },
+      "graphics": {
+        "enabled": {
+          "value": "{semantic.primary.enabled}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{semantic.primary.disabled}",
+          "type": "color"
+        }
       }
     },
     "shadow": {
