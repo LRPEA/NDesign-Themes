@@ -4114,19 +4114,19 @@
     "checkbox": {
       "checked": {
         "enabled": {
-          "value": "{palette.brand.6}",
+          "value": "{semantic.primary.enabled}",
           "type": "color"
         },
         "hovered": {
-          "value": "{palette.brand.5}",
+          "value": "{semantic.primary.hovered}",
           "type": "color"
         },
         "pressed": {
-          "value": "{palette.brand.7}",
+          "value": "{semantic.primary.pressed}",
           "type": "color"
         },
         "disabled": {
-          "value": "{palette.brand.3}",
+          "value": "{semantic.primary.disabled}",
           "type": "color"
         }
       },
@@ -4150,19 +4150,19 @@
       },
       "selected": {
         "enabled": {
-          "value": "{palette.brand.6}",
+          "value": "{semantic.primary.enabled}",
           "type": "color"
         },
         "hovered": {
-          "value": "{palette.brand.5}",
+          "value": "{semantic.primary.hovered}",
           "type": "color"
         },
         "pressed": {
-          "value": "{palette.brand.7}",
+          "value": "{semantic.primary.pressed}",
           "type": "color"
         },
         "disabled": {
-          "value": "{palette.brand.3}",
+          "value": "{semantic.primary.disabled}",
           "type": "color"
         }
       },
@@ -4199,6 +4199,16 @@
         },
         "disabled": {
           "value": "{input.disabled}",
+          "type": "color"
+        }
+      },
+      "checkmark": {
+        "enabled": {
+          "value": "{semantic.primary.enabled}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{semantic.primary.disabled}",
           "type": "color"
         }
       }
