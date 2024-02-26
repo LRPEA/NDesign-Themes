@@ -2353,25 +2353,37 @@
         "value": "{radius.round}",
         "type": "borderRadius"
       },
-      "input": {
-        "value": "{radius.default}",
-        "type": "borderRadius"
-      },
-      "button-s": {
-        "value": "8",
-        "type": "borderRadius"
-      },
-      "button-m": {
-        "value": "{radius.default}",
-        "type": "borderRadius"
-      },
-      "button-l": {
-        "value": "{radius.default}",
-        "type": "borderRadius"
-      },
       "checkbox": {
         "value": "4",
         "type": "borderRadius"
+      },
+      "btn": {
+        "small": {
+          "value": "8",
+          "type": "borderRadius"
+        },
+        "medium": {
+          "value": "{radius.default}",
+          "type": "borderRadius"
+        },
+        "large": {
+          "value": "{radius.default}",
+          "type": "borderRadius"
+        }
+      },
+      "input": {
+        "small": {
+          "value": "{radius.btn.small}",
+          "type": "borderRadius"
+        },
+        "medium": {
+          "value": "{radius.btn.medium}",
+          "type": "borderRadius"
+        },
+        "large": {
+          "value": "{radius.btn.large}",
+          "type": "borderRadius"
+        }
       }
     },
     "surface": {
