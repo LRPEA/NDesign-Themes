@@ -3702,28 +3702,28 @@
         },
         "hovered": {
           "value": {
-            "color": "{border.primary.enabled}",
+            "color": "{border.normal.hovered}",
             "width": "{border-width.default}"
           },
           "type": "border"
         },
         "pressed": {
           "value": {
-            "color": "{border.primary.enabled}",
+            "color": "{border.normal.pressed}",
             "width": "{border-width.default}"
           },
           "type": "border"
         },
         "actived": {
           "value": {
-            "color": "{border.primary.enabled}",
+            "color": "{border.normal.actived}",
             "width": "{border-width.default}"
           },
           "type": "border"
         },
         "disabled": {
           "value": {
-            "color": "{border.lighter}",
+            "color": "{border.normal.disabled}",
             "width": "{border-width.default}"
           },
           "type": "border"
