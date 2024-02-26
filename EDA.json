@@ -4285,31 +4285,31 @@
     },
     "input": {
       "default": {
-        "value": "{surface.filless}",
+        "value": "{palette.neutral.2}",
         "type": "color"
       },
       "hovered": {
-        "value": "{surface.filless}",
+        "value": "{palette.neutral.2}",
         "type": "color"
       },
       "actived": {
-        "value": "{surface.filless}",
+        "value": "{palette.fundamentals.white}",
         "type": "color"
       },
       "disabled": {
-        "value": "{surface.disabled}",
+        "value": "{palette.black.1}",
         "type": "color"
       },
       "success": {
-        "value": "{surface.filless}",
+        "value": "{palette.neutral.2}",
         "type": "color"
       },
       "danger": {
-        "value": "{surface.filless}",
+        "value": "{palette.neutral.2}",
         "type": "color"
       },
       "warning": {
-        "value": "{surface.filless}",
+        "value": "{palette.neutral.2}",
         "type": "color"
       }
     },
