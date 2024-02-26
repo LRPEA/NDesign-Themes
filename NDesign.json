@@ -2353,10 +2353,6 @@
         "value": "{radius.round}",
         "type": "borderRadius"
       },
-      "input": {
-        "value": "{radius.default}",
-        "type": "borderRadius"
-      },
       "button": {
         "value": "{radius.default}",
         "type": "borderRadius"
@@ -2364,6 +2360,20 @@
       "checkbox": {
         "value": "{radius.default}",
         "type": "borderRadius"
+      },
+      "input": {
+        "small": {
+          "value": "{radius.default}",
+          "type": "borderRadius"
+        },
+        "medium": {
+          "value": "{radius.default}",
+          "type": "borderRadius"
+        },
+        "large": {
+          "value": "{radius.default}",
+          "type": "borderRadius"
+        }
       }
     },
     "surface": {
