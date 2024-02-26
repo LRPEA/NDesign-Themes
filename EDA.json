@@ -4284,7 +4284,7 @@
       }
     },
     "input": {
-      "default": {
+      "enabled": {
         "value": "{palette.neutral.2}",
         "type": "color"
       },
