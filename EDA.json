@@ -3693,22 +3693,22 @@
           },
           "hovered": {
             "value": {
-              "color": "",
-              "width": "{border-width.borderless}"
+              "color": "{border.darker}",
+              "width": "{border-width.default}"
             },
             "type": "border"
           },
           "pressed": {
             "value": {
-              "color": "",
-              "width": "{border-width.borderless}"
+              "color": "{border.darker}",
+              "width": "{border-width.default}"
             },
             "type": "border"
           },
           "disabled": {
             "value": {
-              "color": "",
-              "width": "{border-width.borderless}"
+              "color": "{border.lighter}",
+              "width": "{border-width.default}"
             },
             "type": "border"
           }
@@ -3723,22 +3723,22 @@
           },
           "hovered": {
             "value": {
-              "color": "",
-              "width": "{border-width.borderless}"
+              "color": "{border.darker}",
+              "width": "{border-width.default}"
             },
             "type": "border"
           },
           "pressed": {
             "value": {
-              "color": "",
-              "width": "{border-width.borderless}"
+              "color": "{border.darker}",
+              "width": "{border-width.default}"
             },
             "type": "border"
           },
           "disabled": {
             "value": {
-              "color": "",
-              "width": "{border-width.borderless}"
+              "color": "{border.lighter}",
+              "width": "{border-width.default}"
             },
             "type": "border"
           }
@@ -3753,21 +3753,21 @@
           },
           "hovered": {
             "value": {
-              "color": "{border.normal.hovered}",
+              "color": "{border.darker}",
               "width": "{border-width.default}"
             },
             "type": "border"
           },
           "pressed": {
             "value": {
-              "color": "{border.normal.pressed}",
-              "width": "{border-width.borderless}"
+              "color": "{border.darker}",
+              "width": "{border-width.default}"
             },
             "type": "border"
           },
           "disabled": {
             "value": {
-              "color": "{border.normal.disabled}",
+              "color": "{border.lighter}",
               "width": "{border-width.default}"
             },
             "type": "border"
