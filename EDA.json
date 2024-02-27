@@ -3870,7 +3870,7 @@
           "dark": {
             "value": {
               "width": "{border-width.default}",
-              "color": "{palette.brand.4}"
+              "color": "{palette.brand.5}"
             },
             "type": "border"
           }
@@ -3943,14 +3943,14 @@
           "light": {
             "value": {
               "width": "{border-width.default}",
-              "color": "{palette.yellow.2}"
+              "color": "{palette.yellow.3}"
             },
             "type": "border"
           },
           "dark": {
             "value": {
               "width": "{border-width.default}",
-              "color": "{palette.yellow.4}"
+              "color": "{palette.yellow.5}"
             },
             "type": "border"
           }
@@ -3959,14 +3959,14 @@
           "light": {
             "value": {
               "width": "{border-width.default}",
-              "color": "{palette.chartreuse.2}"
+              "color": "{palette.blue.2}"
             },
             "type": "border"
           },
           "dark": {
             "value": {
               "width": "{border-width.default}",
-              "color": "{palette.chartreuse.4}"
+              "color": "{palette.blue.4}"
             },
             "type": "border"
           }
