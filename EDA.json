@@ -2589,7 +2589,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{palette.neutral.3}",
+          "value": "{border.lightest}",
           "type": "color"
         }
       },
