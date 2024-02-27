@@ -4030,7 +4030,7 @@
           "weak": {
             "value": {
               "width": "{border-width.default}",
-              "color": "{border.primary.light}"
+              "color": "{border.primary.disabled}"
             },
             "type": "border"
           }
@@ -4811,7 +4811,7 @@
           }
         },
         "hovered": {
-          "value": "{palette.brand.2}",
+          "value": "{surface.primary.light}",
           "type": "color"
         },
         "selected": {
@@ -4819,11 +4819,11 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{palette.neutral.4}",
+          "value": "{palette.neutral.2}",
           "type": "color"
         },
         "highlight": {
-          "value": "{surface.info.lightest}",
+          "value": "{surface.primary.lightest}",
           "type": "color"
         }
       },
@@ -4850,11 +4850,11 @@
         },
         "weakend": {
           "default": {
-            "value": "{palette.red.6}",
+            "value": "{text.primary.disabled}",
             "type": "color"
           },
           "weak": {
-            "value": "{palette.red.3}",
+            "value": "{palette.neutral.4}",
             "type": "color"
           }
         },
