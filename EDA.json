@@ -4860,11 +4860,11 @@
         },
         "holiday": {
           "default": {
-            "value": "{palette.red.6}",
+            "value": "{text.regular.primary}",
             "type": "color"
           },
           "weak": {
-            "value": "{palette.red.3}",
+            "value": "{text.regular.quaternary}",
             "type": "color"
           }
         },
