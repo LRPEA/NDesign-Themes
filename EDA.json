@@ -4745,7 +4745,7 @@
           "type": "color"
         },
         "pressed": {
-          "value": "{palette.brand.1}",
+          "value": "{palette.neutral.2}",
           "type": "color"
         },
         "selected": {
