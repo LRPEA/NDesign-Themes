@@ -4302,7 +4302,7 @@
       },
       "pending": {
         "enabled": {
-          "value": "{palette.black.2}",
+          "value": "{palette.black.3}",
           "type": "color"
         },
         "hovered": {
