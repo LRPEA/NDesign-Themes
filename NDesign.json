@@ -2357,6 +2357,10 @@
         "value": "{radius.default}",
         "type": "borderRadius"
       },
+      "cell": {
+        "value": "{radius.zero}",
+        "type": "borderRadius"
+      },
       "input": {
         "small": {
           "value": "{radius.btn.small}",
@@ -4903,18 +4907,16 @@
       }
     },
     "space": {
-      "input": {
-        "large": {
-          "value": "-40",
-          "type": "spacing"
-        },
-        "medium": {
-          "value": "-32",
-          "type": "spacing"
-        },
-        "small": {
-          "value": "-24",
-          "type": "spacing"
+      "mobile": {
+        "page": {
+          "default": {
+            "value": "16",
+            "type": "spacing"
+          },
+          "cell": {
+            "value": "0",
+            "type": "spacing"
+          }
         }
       }
     },
