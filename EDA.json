@@ -4302,15 +4302,15 @@
       },
       "pending": {
         "enabled": {
-          "value": "{palette.black.3}",
+          "value": "{palette.neutral.3}",
           "type": "color"
         },
         "hovered": {
-          "value": "{palette.black.4}",
+          "value": "{palette.neutral.4}",
           "type": "color"
         },
         "disabled": {
-          "value": "{palette.black.2}",
+          "value": "{palette.neutral.2}",
           "type": "color"
         }
       },
