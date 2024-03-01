@@ -2357,6 +2357,10 @@
         "value": "4",
         "type": "borderRadius"
       },
+      "cell": {
+        "value": "{radius.default}",
+        "type": "borderRadius"
+      },
       "btn": {
         "small": {
           "value": "8",
@@ -4894,22 +4898,6 @@
         }
       }
     },
-    "space": {
-      "input": {
-        "large": {
-          "value": "-40",
-          "type": "spacing"
-        },
-        "medium": {
-          "value": "-32",
-          "type": "spacing"
-        },
-        "small": {
-          "value": "-24",
-          "type": "spacing"
-        }
-      }
-    },
     "picker": {
       "bg": {
         "hovered": {
@@ -4933,6 +4921,20 @@
         "selected": {
           "value": "{text.regular.primary}",
           "type": "color"
+        }
+      }
+    },
+    "space": {
+      "mobile": {
+        "page": {
+          "default": {
+            "value": "16",
+            "type": "spacing"
+          },
+          "cell": {
+            "value": "16",
+            "type": "spacing"
+          }
         }
       }
     }
