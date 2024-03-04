@@ -2391,11 +2391,11 @@
       },
       "tag": {
         "small": {
-          "value": "6",
+          "value": "8",
           "type": "borderRadius"
         },
         "medium": {
-          "value": "8",
+          "value": "{radius.default}",
           "type": "borderRadius"
         },
         "large": {
