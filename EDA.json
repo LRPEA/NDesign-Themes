@@ -2390,20 +2390,20 @@
         }
       },
       "tag": {
-        "extra": {
-          "value": "{radius.default}",
-          "type": "borderRadius"
-        },
-        "large": {
-          "value": "{radius.default}",
+        "small": {
+          "value": "6",
           "type": "borderRadius"
         },
         "medium": {
           "value": "8",
           "type": "borderRadius"
         },
-        "small": {
-          "value": "6",
+        "large": {
+          "value": "{radius.default}",
+          "type": "borderRadius"
+        },
+        "extra": {
+          "value": "{radius.default}",
           "type": "borderRadius"
         }
       }
