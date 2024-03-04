@@ -2410,6 +2410,24 @@
           "value": "{radius.default}",
           "type": "borderRadius"
         }
+      },
+      "tag": {
+        "xl": {
+          "value": "{radius.default}",
+          "type": "borderRadius"
+        },
+        "large": {
+          "value": "{radius.default}",
+          "type": "borderRadius"
+        },
+        "medium": {
+          "value": "{radius.default}",
+          "type": "borderRadius"
+        },
+        "small": {
+          "value": "{radius.default}",
+          "type": "borderRadius"
+        }
       }
     },
     "surface": {
@@ -4972,6 +4990,24 @@
         },
         "small": {
           "value": "24",
+          "type": "sizing"
+        }
+      },
+      "tag": {
+        "xl": {
+          "value": "36",
+          "type": "sizing"
+        },
+        "large": {
+          "value": "28",
+          "type": "sizing"
+        },
+        "medium": {
+          "value": "24",
+          "type": "sizing"
+        },
+        "small": {
+          "value": "20",
           "type": "sizing"
         }
       }
