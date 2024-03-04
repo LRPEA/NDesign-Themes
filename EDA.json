@@ -2388,6 +2388,24 @@
           "value": "{radius.btn.large}",
           "type": "borderRadius"
         }
+      },
+      "tag": {
+        "extra": {
+          "value": "{radius.default}",
+          "type": "borderRadius"
+        },
+        "large": {
+          "value": "{radius.default}",
+          "type": "borderRadius"
+        },
+        "medium": {
+          "value": "8",
+          "type": "borderRadius"
+        },
+        "small": {
+          "value": "6",
+          "type": "borderRadius"
+        }
       }
     },
     "surface": {
@@ -4894,6 +4912,24 @@
         },
         "small": {
           "value": "32",
+          "type": "sizing"
+        }
+      },
+      "tag": {
+        "extra": {
+          "value": "44",
+          "type": "sizing"
+        },
+        "large": {
+          "value": "36",
+          "type": "sizing"
+        },
+        "medium": {
+          "value": "32",
+          "type": "sizing"
+        },
+        "small": {
+          "value": "24",
           "type": "sizing"
         }
       }
