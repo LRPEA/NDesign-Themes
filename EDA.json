@@ -2402,7 +2402,7 @@
           "value": "{radius.default}",
           "type": "borderRadius"
         },
-        "extra": {
+        "xl": {
           "value": "{radius.default}",
           "type": "borderRadius"
         }
@@ -4916,7 +4916,7 @@
         }
       },
       "tag": {
-        "extra": {
+        "xl": {
           "value": "44",
           "type": "sizing"
         },
