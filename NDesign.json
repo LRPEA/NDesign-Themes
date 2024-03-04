@@ -1223,6 +1223,18 @@
         "quaternary": {
           "value": "{palette.white.5}",
           "type": "color"
+        },
+        "hovered": {
+          "value": "{palette.white.8}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{palette.white.7}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{palette.white.5}",
+          "type": "color"
         }
       },
       "black": {
@@ -2228,6 +2240,16 @@
             "type": "color"
           }
         }
+      },
+      "white": {
+        "bold": {
+          "value": "{palette.fundamentals.white}",
+          "type": "color"
+        },
+        "quiet": {
+          "value": "{palette.white.3}",
+          "type": "color"
+        }
       }
     },
     "sc-apple": {
@@ -2700,6 +2722,24 @@
         },
         "disabled": {
           "value": "{palette.info.3}",
+          "type": "color"
+        }
+      },
+      "white": {
+        "enabled": {
+          "value": "{palette.fundamentals.white}",
+          "type": "color"
+        },
+        "hovered": {
+          "value": "{palette.white.8}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{palette.white.7}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{palette.white.5}",
           "type": "color"
         }
       }
@@ -4262,6 +4302,36 @@
           "disabled": {
             "value": {
               "color": "{border.info.disabled}",
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          }
+        },
+        "white": {
+          "enabled": {
+            "value": {
+              "color": "{border.white.enabled}",
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          },
+          "hovered": {
+            "value": {
+              "color": "{border.white.hovered}",
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          },
+          "pressed": {
+            "value": {
+              "color": "{border.white.pressed}",
+              "width": "{border-width.default}"
+            },
+            "type": "border"
+          },
+          "disabled": {
+            "value": {
+              "color": "{border.white.disabled}",
               "width": "{border-width.default}"
             },
             "type": "border"
