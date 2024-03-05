@@ -2240,6 +2240,16 @@
             "type": "color"
           }
         }
+      },
+      "white": {
+        "bold": {
+          "value": "{palette.fundamentals.white}",
+          "type": "color"
+        },
+        "quiet": {
+          "value": "{palette.white.3}",
+          "type": "color"
+        }
       }
     },
     "sc-apple": {
