@@ -1223,6 +1223,18 @@
         "quaternary": {
           "value": "{palette.white.5}",
           "type": "color"
+        },
+        "hovered": {
+          "value": "{palette.white.8}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{palette.white.7}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{palette.white.5}",
+          "type": "color"
         }
       },
       "black": {
