@@ -4324,6 +4324,36 @@
             },
             "type": "border"
           }
+        },
+        "white": {
+          "enabled": {
+            "value": {
+              "width": "{border-width.default}",
+              "color": "{border.white.enabled}"
+            },
+            "type": "border"
+          },
+          "hovered": {
+            "value": {
+              "width": "{border-width.default}",
+              "color": "{border.white.hovered}"
+            },
+            "type": "border"
+          },
+          "pressed": {
+            "value": {
+              "width": "{border-width.default}",
+              "color": "{border.white.pressed}"
+            },
+            "type": "border"
+          },
+          "disabled": {
+            "value": {
+              "width": "{border-width.default}",
+              "color": "{border.white.disabled}"
+            },
+            "type": "border"
+          }
         }
       }
     },
