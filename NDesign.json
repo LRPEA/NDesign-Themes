@@ -5024,6 +5024,20 @@
             "type": "spacing"
           }
         }
+      },
+      "btn": {
+        "large": {
+          "value": "12",
+          "type": "spacing"
+        },
+        "medium": {
+          "value": "8",
+          "type": "spacing"
+        },
+        "small": {
+          "value": "4",
+          "type": "spacing"
+        }
       }
     },
     "picker": {
