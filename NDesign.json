@@ -5010,6 +5010,20 @@
           "value": "20",
           "type": "sizing"
         }
+      },
+      "btn-min-width": {
+        "large": {
+          "value": "74",
+          "type": "sizing"
+        },
+        "medium": {
+          "value": "66",
+          "type": "sizing"
+        },
+        "small": {
+          "value": "52",
+          "type": "sizing"
+        }
       }
     },
     "space": {
