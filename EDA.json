@@ -5045,15 +5045,15 @@
       },
       "btn": {
         "large": {
-          "value": "12",
+          "value": "16",
           "type": "spacing"
         },
         "medium": {
-          "value": "8",
+          "value": "12",
           "type": "spacing"
         },
         "small": {
-          "value": "4",
+          "value": "8",
           "type": "spacing"
         }
       }
