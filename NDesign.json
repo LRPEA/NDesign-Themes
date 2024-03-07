@@ -5013,15 +5013,15 @@
       },
       "btn-min-width": {
         "large": {
-          "value": "74",
+          "value": "76",
           "type": "sizing"
         },
         "medium": {
-          "value": "66",
+          "value": "70",
           "type": "sizing"
         },
         "small": {
-          "value": "52",
+          "value": "56",
           "type": "sizing"
         }
       }
