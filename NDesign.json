@@ -5010,8 +5010,10 @@
           "value": "20",
           "type": "sizing"
         }
-      },
-      "btn-min-width": {
+      }
+    },
+    "min-width": {
+      "btn": {
         "large": {
           "value": "76",
           "type": "sizing"
