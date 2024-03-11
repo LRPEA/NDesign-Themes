@@ -4978,40 +4978,6 @@
         }
       }
     },
-    "size": {
-      "input": {
-        "large": {
-          "value": "40",
-          "type": "sizing"
-        },
-        "medium": {
-          "value": "32",
-          "type": "sizing"
-        },
-        "small": {
-          "value": "24",
-          "type": "sizing"
-        }
-      },
-      "tag": {
-        "xl": {
-          "value": "36",
-          "type": "sizing"
-        },
-        "large": {
-          "value": "28",
-          "type": "sizing"
-        },
-        "medium": {
-          "value": "24",
-          "type": "sizing"
-        },
-        "small": {
-          "value": "20",
-          "type": "sizing"
-        }
-      }
-    },
     "min-width": {
       "btn": {
         "large": {
