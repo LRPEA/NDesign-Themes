@@ -5065,6 +5065,44 @@
           "type": "color"
         }
       }
+    },
+    "width": {
+      "dialog": {
+        "large": {
+          "value": "720",
+          "type": "sizing"
+        },
+        "medium": {
+          "value": "520",
+          "type": "sizing"
+        },
+        "small": {
+          "value": "400",
+          "type": "sizing"
+        }
+      }
+    },
+    "min-height": {
+      "dialog": {
+        "large": {
+          "value": "720",
+          "type": "sizing"
+        },
+        "medium": {
+          "value": "520",
+          "type": "sizing"
+        },
+        "small": {
+          "value": "200",
+          "type": "sizing"
+        }
+      }
+    },
+    "max-height": {
+      "dialog": {
+        "value": "600",
+        "type": "sizing"
+      }
     }
   },
   "$themes": [],
