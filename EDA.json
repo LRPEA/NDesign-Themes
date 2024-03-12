@@ -5077,22 +5077,22 @@
     "min-height": {
       "dialog": {
         "large": {
-          "value": "720",
+          "value": "-",
           "type": "sizing"
         },
         "medium": {
-          "value": "520",
+          "value": "-",
           "type": "sizing"
         },
         "small": {
-          "value": "200",
+          "value": "90",
           "type": "sizing"
         }
       }
     },
     "max-height": {
       "dialog": {
-        "value": "600",
+        "value": "520",
         "type": "sizing"
       }
     }
