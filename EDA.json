@@ -5025,19 +5025,19 @@
       },
       "tag": {
         "xl": {
-          "value": "10",
+          "value": "14",
           "type": "spacing"
         },
         "large": {
-          "value": "6",
+          "value": "10",
           "type": "spacing"
         },
         "medium": {
-          "value": "4",
+          "value": "8",
           "type": "spacing"
         },
         "samll": {
-          "value": "2",
+          "value": "4",
           "type": "spacing"
         }
       }
