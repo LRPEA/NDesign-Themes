@@ -5093,14 +5093,14 @@
           "type": "sizing"
         },
         "small": {
-          "value": "200",
+          "value": "90",
           "type": "sizing"
         }
       }
     },
     "max-height": {
       "dialog": {
-        "value": "600",
+        "value": "520",
         "type": "sizing"
       }
     }
