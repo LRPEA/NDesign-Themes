@@ -4441,20 +4441,6 @@
       "range": {
         "value": "{palette.neutral.4}",
         "type": "color"
-      },
-      "trigger": {
-        "enabled": {
-          "value": "{palette.black.7}",
-          "type": "color"
-        },
-        "hovered": {
-          "value": "{palette.black.8}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{palette.black.5}",
-          "type": "color"
-        }
       }
     },
     "input": {
