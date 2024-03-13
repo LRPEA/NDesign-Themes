@@ -5008,38 +5008,6 @@
             "type": "spacing"
           }
         }
-      },
-      "btn": {
-        "large": {
-          "value": "16",
-          "type": "spacing"
-        },
-        "medium": {
-          "value": "12",
-          "type": "spacing"
-        },
-        "small": {
-          "value": "8",
-          "type": "spacing"
-        }
-      },
-      "tag": {
-        "xl": {
-          "value": "14",
-          "type": "spacing"
-        },
-        "large": {
-          "value": "10",
-          "type": "spacing"
-        },
-        "medium": {
-          "value": "8",
-          "type": "spacing"
-        },
-        "small": {
-          "value": "4",
-          "type": "spacing"
-        }
       }
     },
     "min-width": {
@@ -5094,6 +5062,40 @@
       "dialog": {
         "value": "520",
         "type": "sizing"
+      }
+    },
+    "height": {
+      "btn": {
+        "large": {
+          "value": "48",
+          "type": "sizing"
+        },
+        "medium": {
+          "value": "40",
+          "type": "sizing"
+        },
+        "small": {
+          "value": "32",
+          "type": "sizing"
+        }
+      },
+      "tag": {
+        "xl": {
+          "value": "44",
+          "type": "sizing"
+        },
+        "large": {
+          "value": "36",
+          "type": "sizing"
+        },
+        "medium": {
+          "value": "32",
+          "type": "sizing"
+        },
+        "small": {
+          "value": "24",
+          "type": "sizing"
+        }
       }
     }
   },
