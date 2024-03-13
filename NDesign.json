@@ -5006,38 +5006,6 @@
             "type": "spacing"
           }
         }
-      },
-      "btn": {
-        "large": {
-          "value": "12",
-          "type": "spacing"
-        },
-        "medium": {
-          "value": "8",
-          "type": "spacing"
-        },
-        "small": {
-          "value": "4",
-          "type": "spacing"
-        }
-      },
-      "tag": {
-        "xl": {
-          "value": "10",
-          "type": "spacing"
-        },
-        "large": {
-          "value": "6",
-          "type": "spacing"
-        },
-        "medium": {
-          "value": "4",
-          "type": "spacing"
-        },
-        "small": {
-          "value": "2",
-          "type": "spacing"
-        }
       }
     },
     "picker": {
@@ -5096,7 +5064,9 @@
           "value": "90",
           "type": "sizing"
         }
-      },
+      }
+    },
+    "height": {
       "btn": {
         "large": {
           "value": "40",
@@ -5108,6 +5078,24 @@
         },
         "small": {
           "value": "24",
+          "type": "sizing"
+        }
+      },
+      "tag": {
+        "xl": {
+          "value": "36",
+          "type": "sizing"
+        },
+        "large": {
+          "value": "28",
+          "type": "sizing"
+        },
+        "medium": {
+          "value": "24",
+          "type": "sizing"
+        },
+        "small": {
+          "value": "20",
           "type": "sizing"
         }
       }
