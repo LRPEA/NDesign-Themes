@@ -5096,6 +5096,20 @@
           "value": "90",
           "type": "sizing"
         }
+      },
+      "btn": {
+        "large": {
+          "value": "40",
+          "type": "sizing"
+        },
+        "medium": {
+          "value": "32",
+          "type": "sizing"
+        },
+        "small": {
+          "value": "24",
+          "type": "sizing"
+        }
       }
     },
     "max-height": {
