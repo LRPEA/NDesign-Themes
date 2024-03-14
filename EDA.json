@@ -5099,40 +5099,6 @@
         }
       }
     },
-    "height": {
-      "btn": {
-        "large": {
-          "value": "48",
-          "type": "sizing"
-        },
-        "medium": {
-          "value": "40",
-          "type": "sizing"
-        },
-        "small": {
-          "value": "32",
-          "type": "sizing"
-        }
-      },
-      "tag": {
-        "xl": {
-          "value": "44",
-          "type": "sizing"
-        },
-        "large": {
-          "value": "36",
-          "type": "sizing"
-        },
-        "medium": {
-          "value": "32",
-          "type": "sizing"
-        },
-        "small": {
-          "value": "24",
-          "type": "sizing"
-        }
-      }
-    },
     "max-height": {
       "dialog": {
         "value": "520",
