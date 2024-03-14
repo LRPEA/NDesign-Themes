@@ -5097,6 +5097,10 @@
           "type": "sizing"
         }
       }
+    },
+    "large": {
+      "value": "48px",
+      "type": "dimension"
     }
   },
   "$themes": [],
