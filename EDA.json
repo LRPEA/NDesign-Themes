@@ -5092,10 +5092,6 @@
         }
       }
     },
-    "large": {
-      "value": "48px",
-      "type": "dimension"
-    },
     "max-height": {
       "dialog": {
         "value": "520",
