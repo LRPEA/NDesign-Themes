@@ -5017,6 +5017,38 @@
             "type": "spacing"
           }
         }
+      },
+      "btn": {
+        "large": {
+          "value": "1",
+          "type": "spacing"
+        },
+        "medium": {
+          "value": "1",
+          "type": "spacing"
+        },
+        "small": {
+          "value": "1",
+          "type": "spacing"
+        }
+      },
+      "tag": {
+        "xl": {
+          "value": "1",
+          "type": "spacing"
+        },
+        "large": {
+          "value": "1",
+          "type": "spacing"
+        },
+        "medium": {
+          "value": "1",
+          "type": "spacing"
+        },
+        "small": {
+          "value": "1",
+          "type": "spacing"
+        }
       }
     },
     "min-width": {
