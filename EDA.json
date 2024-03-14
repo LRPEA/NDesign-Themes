@@ -453,11 +453,11 @@
           "type": "color"
         },
         "white": {
-          "value": "#ffffff",
+          "value": "#FFFFFF",
           "type": "color"
         },
         "red": {
-          "value": "#ff0000",
+          "value": "#FF0000",
           "type": "color"
         },
         "yellow": {
