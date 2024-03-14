@@ -4070,13 +4070,15 @@
         "common": {
           "default": {
             "value": {
-              "width": "{border-width.borderless}"
+              "width": "{border-width.borderless}",
+              "color": ""
             },
             "type": "border"
           },
           "weak": {
             "value": {
-              "width": "{border-width.borderless}"
+              "width": "{border-width.borderless}",
+              "color": ""
             },
             "type": "border"
           }
@@ -4100,13 +4102,15 @@
         "weekend": {
           "default": {
             "value": {
-              "width": "{border-width.borderless}"
+              "width": "{border-width.borderless}",
+              "color": ""
             },
             "type": "border"
           },
           "weak": {
             "value": {
-              "width": "{border-width.borderless}"
+              "width": "{border-width.borderless}",
+              "color": ""
             },
             "type": "border"
           }
@@ -4114,32 +4118,37 @@
         "holiday": {
           "default": {
             "value": {
-              "width": "{border-width.borderless}"
+              "width": "{border-width.borderless}",
+              "color": ""
             },
             "type": "border"
           },
           "weak": {
             "value": {
-              "width": "{border-width.borderless}"
+              "width": "{border-width.borderless}",
+              "color": ""
             },
             "type": "border"
           }
         },
         "selected": {
           "value": {
-            "width": "{border-width.borderless}"
+            "width": "{border-width.borderless}",
+            "color": ""
           },
           "type": "border"
         },
         "hovered": {
           "value": {
-            "width": "{border-width.borderless}"
+            "width": "{border-width.borderless}",
+            "color": ""
           },
           "type": "border"
         },
         "disabled": {
           "value": {
-            "width": "{border-width.borderless}"
+            "width": "{border-width.borderless}",
+            "color": ""
           },
           "type": "border"
         }
