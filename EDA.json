@@ -1720,6 +1720,20 @@
             "type": "color"
           }
         }
+      },
+      "weak": {
+        "enabled": {
+          "value": "{text.regular.secondary}",
+          "type": "color"
+        },
+        "hovered": {
+          "value": "{text.regular.primary}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{text.regular.primary}",
+          "type": "color"
+        }
       }
     },
     "body": {
