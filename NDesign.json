@@ -479,6 +479,10 @@
         "magenta": {
           "value": "#FF00FF",
           "type": "color"
+        },
+        "transparent": {
+          "value": "rgba(255,255,255,0)",
+          "type": "color"
         }
       },
       "white": {
@@ -1849,6 +1853,24 @@
           },
           "disabled": {
             "value": "{text.primary.disabled}",
+            "type": "color"
+          }
+        },
+        "outlined": {
+          "enabled": {
+            "value": "{palette.fundamentals.transparent}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{palette.fundamentals.transparent}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{palette.fundamentals.transparent}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{palette.fundamentals.transparent}",
             "type": "color"
           }
         }
