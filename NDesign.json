@@ -1922,21 +1922,21 @@
             "type": "color"
           }
         },
-        "bold": {
+        "outlined": {
           "enabled": {
-            "value": "{palette.neutral.5}",
+            "value": "{palette.fundamentals.transparent}",
             "type": "color"
           },
           "hovered": {
-            "value": "{palette.neutral.5}",
+            "value": "{palette.fundamentals.transparent}",
             "type": "color"
           },
           "pressed": {
-            "value": "{palette.neutral.6}",
+            "value": "{palette.fundamentals.transparent}",
             "type": "color"
           },
           "disabled": {
-            "value": "{palette.neutral.4}",
+            "value": "{palette.fundamentals.transparent}",
             "type": "color"
           }
         }
