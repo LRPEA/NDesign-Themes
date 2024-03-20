@@ -4987,31 +4987,31 @@
       "bg": {
         "common": {
           "default": {
-            "value": "{surface.filless}",
+            "value": "{palette.fundamentals.transparent}",
             "type": "color"
           },
           "weak": {
-            "value": "{surface.filless}",
+            "value": "{palette.fundamentals.transparent}",
             "type": "color"
           }
         },
         "current": {
           "default": {
-            "value": "{surface.filless}",
+            "value": "{palette.fundamentals.transparent}",
             "type": "color"
           },
           "weak": {
-            "value": "{surface.filless}",
+            "value": "{palette.fundamentals.transparent}",
             "type": "color"
           }
         },
         "weekend": {
           "default": {
-            "value": "{surface.filless}",
+            "value": "{palette.fundamentals.transparent}",
             "type": "color"
           },
           "weak": {
-            "value": "{surface.filless}",
+            "value": "{palette.fundamentals.transparent}",
             "type": "color"
           }
         },
