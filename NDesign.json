@@ -2491,17 +2491,17 @@
         "value": "{radius.zero}",
         "type": "borderRadius"
       },
-      "btn": {
+      "input": {
         "small": {
-          "value": "{radius.default}",
+          "value": "{radius.btn.small}",
           "type": "borderRadius"
         },
         "medium": {
-          "value": "{radius.default}",
+          "value": "{radius.btn.medium}",
           "type": "borderRadius"
         },
         "large": {
-          "value": "{radius.default}",
+          "value": "{radius.btn.large}",
           "type": "borderRadius"
         }
       },
@@ -2519,6 +2519,20 @@
           "type": "borderRadius"
         },
         "small": {
+          "value": "{radius.default}",
+          "type": "borderRadius"
+        }
+      },
+      "btn": {
+        "small": {
+          "value": "{radius.default}",
+          "type": "borderRadius"
+        },
+        "medium": {
+          "value": "{radius.default}",
+          "type": "borderRadius"
+        },
+        "large": {
           "value": "{radius.default}",
           "type": "borderRadius"
         }
