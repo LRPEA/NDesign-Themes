@@ -2491,20 +2491,6 @@
         "value": "{radius.zero}",
         "type": "borderRadius"
       },
-      "input": {
-        "small": {
-          "value": "{radius.btn.small}",
-          "type": "borderRadius"
-        },
-        "medium": {
-          "value": "{radius.btn.medium}",
-          "type": "borderRadius"
-        },
-        "large": {
-          "value": "{radius.btn.large}",
-          "type": "borderRadius"
-        }
-      },
       "btn": {
         "small": {
           "value": "{radius.default}",
