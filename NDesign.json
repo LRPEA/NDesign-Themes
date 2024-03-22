@@ -2746,7 +2746,7 @@
         }
       },
       "lightest": {
-        "value": "{palette.neutral.3}",
+        "value": "{palette.neutral.2}",
         "type": "color"
       },
       "lighter": {
