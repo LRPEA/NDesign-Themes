@@ -2677,10 +2677,6 @@
           "type": "color"
         }
       },
-      "filless": {
-        "value": "rgba(255,255,255,0)",
-        "type": "color"
-      },
       "disabled": {
         "value": "{palette.neutral.2}",
         "type": "color"
