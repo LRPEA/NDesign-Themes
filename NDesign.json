@@ -5205,6 +5205,10 @@
       "on-mine": {
         "value": "{palette.fundamentals.white}",
         "type": "color"
+      },
+      "quote": {
+        "value": "{palette.black.2}",
+        "type": "color"
       }
     }
   },
