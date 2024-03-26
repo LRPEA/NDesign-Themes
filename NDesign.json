@@ -2491,6 +2491,10 @@
         "value": "{radius.zero}",
         "type": "borderRadius"
       },
+      "im": {
+        "value": "{radius.default}",
+        "type": "borderRadius"
+      },
       "input": {
         "small": {
           "value": "{radius.btn.small}",
