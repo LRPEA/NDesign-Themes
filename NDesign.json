@@ -5209,6 +5209,14 @@
       "quote": {
         "value": "{palette.black.2}",
         "type": "color"
+      },
+      "highlight": {
+        "value": "{palette.info.2}",
+        "type": "color"
+      },
+      "on-highlight": {
+        "value": "{text.primary.enabled}",
+        "type": "color"
       }
     }
   },
