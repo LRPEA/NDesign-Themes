@@ -5192,6 +5192,20 @@
         "value": "520",
         "type": "sizing"
       }
+    },
+    "im": {
+      "default": {
+        "value": "{palette.neutral.2}",
+        "type": "color"
+      },
+      "mine": {
+        "value": "{palette.brand.5}",
+        "type": "color"
+      },
+      "on-mine": {
+        "value": "{palette.fundamentals.white}",
+        "type": "color"
+      }
     }
   },
   "$themes": [],
