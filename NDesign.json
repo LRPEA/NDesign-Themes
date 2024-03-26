@@ -5210,10 +5210,6 @@
         "value": "{palette.fundamentals.white}",
         "type": "color"
       },
-      "quote": {
-        "value": "{palette.black.2}",
-        "type": "color"
-      },
       "highlight": {
         "value": "{palette.info.2}",
         "type": "color"
