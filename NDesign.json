@@ -2547,6 +2547,10 @@
         "default": {
           "value": "{palette.fundamentals.white}",
           "type": "color"
+        },
+        "im": {
+          "value": "{palette.fundamentals.white}",
+          "type": "color"
         }
       },
       "container": {
