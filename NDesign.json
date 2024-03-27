@@ -5228,6 +5228,14 @@
         "seen": {
           "value": "{semantic.primary.enabled}",
           "type": "color"
+        },
+        "name": {
+          "value": "{text.primary.enabled}",
+          "type": "color"
+        },
+        "link": {
+          "value": "{text.primary.enabled}",
+          "type": "color"
         }
       }
     }
