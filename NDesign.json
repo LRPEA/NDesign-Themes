@@ -2551,6 +2551,10 @@
         "im": {
           "value": "{palette.fundamentals.white}",
           "type": "color"
+        },
+        "dark": {
+          "value": "{palette.fundamentals.black}",
+          "type": "color"
         }
       },
       "container": {
@@ -4767,6 +4771,30 @@
           }
         ],
         "type": "boxShadow"
+      },
+      "im": {
+        "default": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "0",
+            "color": "#000000",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "me": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "0",
+            "color": "#000000",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        }
       }
     },
     "mark": {
@@ -5198,13 +5226,17 @@
       }
     },
     "im": {
-      "others": {
-        "bg": {
-          "value": "{palette.neutral.2}",
-          "type": "color"
-        },
+      "default": {
+        "value": "{palette.neutral.2}",
+        "type": "color"
+      },
+      "me": {
+        "value": "{palette.azure.2}",
+        "type": "color"
+      },
+      "on-default": {
         "highlight": {
-          "value": "{palette.info.2}",
+          "value": "{palette.azure.2}",
           "type": "color"
         },
         "on-highlight": {
@@ -5212,11 +5244,7 @@
           "type": "color"
         }
       },
-      "me": {
-        "bg": {
-          "value": "{palette.azure.2}",
-          "type": "color"
-        },
+      "on-me": {
         "primary": {
           "value": "{text.regular.primary}",
           "type": "color"
