@@ -5237,7 +5237,7 @@
       },
       "on-default": {
         "highlight": {
-          "value": "{palette.brand.2}",
+          "value": "{palette.brand.1}",
           "type": "color"
         },
         "on-highlight": {
