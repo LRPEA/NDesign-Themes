@@ -4728,7 +4728,7 @@
             "y": "1",
             "blur": "0",
             "spread": "0",
-            "color": "{palette.black.5}",
+            "color": "{border.lightest}",
             "type": "dropShadow"
           }
         ],
@@ -4741,7 +4741,7 @@
             "y": "-1",
             "blur": "0",
             "spread": "0",
-            "color": "{palette.black.5}",
+            "color": "{border.lightest}",
             "type": "dropShadow"
           }
         ],
@@ -4754,7 +4754,7 @@
             "y": "0",
             "blur": "0",
             "spread": "0",
-            "color": "{palette.black.5}",
+            "color": "{border.lightest}",
             "type": "dropShadow"
           }
         ],
@@ -4767,7 +4767,7 @@
             "y": "0",
             "blur": "0",
             "spread": "0",
-            "color": "{palette.black.5}",
+            "color": "{border.lightest}",
             "type": "dropShadow"
           }
         ],
