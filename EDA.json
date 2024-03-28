@@ -2491,6 +2491,10 @@
         "value": "{radius.default}",
         "type": "borderRadius"
       },
+      "im": {
+        "value": "6",
+        "type": "borderRadius"
+      },
       "btn": {
         "small": {
           "value": "8",
@@ -2542,6 +2546,14 @@
       "page": {
         "default": {
           "value": "{palette.neutral.2}",
+          "type": "color"
+        },
+        "im": {
+          "value": "{palette.neutral.2}",
+          "type": "color"
+        },
+        "dark": {
+          "value": "{palette.fundamentals.black}",
           "type": "color"
         }
       },
@@ -4760,6 +4772,30 @@
           }
         ],
         "type": "boxShadow"
+      },
+      "im": {
+        "default": {
+          "value": {
+            "x": "0",
+            "y": "8",
+            "blur": "16",
+            "spread": "0",
+            "color": "{palette.black.1}",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "me": {
+          "value": {
+            "x": "0",
+            "y": "8",
+            "blur": "16",
+            "spread": "0",
+            "color": "rgba( {palette.brand.6} ,0.12)",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        }
       }
     },
     "mark": {
@@ -5188,6 +5224,48 @@
       "dialog": {
         "value": "520",
         "type": "sizing"
+      }
+    },
+    "im": {
+      "default": {
+        "value": "{palette.fundamentals.white}",
+        "type": "color"
+      },
+      "me": {
+        "value": "linear-gradient (90deg, #4BF0B4 0%, #9AF3A3 100%)",
+        "type": "color"
+      },
+      "on-default": {
+        "highlight": {
+          "value": "{palette.brand.2}",
+          "type": "color"
+        },
+        "on-highlight": {
+          "value": "{text.primary.enabled}",
+          "type": "color"
+        }
+      },
+      "on-me": {
+        "primary": {
+          "value": "{text.regular.primary}",
+          "type": "color"
+        },
+        "weak": {
+          "value": "{text.black.tertiary}",
+          "type": "color"
+        },
+        "seen": {
+          "value": "{semantic.primary.enabled}",
+          "type": "color"
+        },
+        "name": {
+          "value": "{text.primary.enabled}",
+          "type": "color"
+        },
+        "link": {
+          "value": "{text.primary.enabled}",
+          "type": "color"
+        }
       }
     }
   },
