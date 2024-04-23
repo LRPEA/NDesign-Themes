@@ -5231,7 +5231,7 @@
         "type": "color"
       },
       "me": {
-        "value": "{palette.azure.2}",
+        "value": "#CDDFFE",
         "type": "color"
       },
       "on-default": {
