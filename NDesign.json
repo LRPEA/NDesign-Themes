@@ -2754,11 +2754,11 @@
         }
       },
       "lightest": {
-        "value": "{palette.neutral.2}",
+        "value": "{palette.black.2}",
         "type": "color"
       },
       "lighter": {
-        "value": "{palette.neutral.4}",
+        "value": "{palette.black.4}",
         "type": "color"
       },
       "darker": {
