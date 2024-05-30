@@ -3809,7 +3809,7 @@
       },
       "overlay": {
         "value": {
-          "color": "{palette.black.4}",
+          "color": "{palette.black.3}",
           "width": "{border-width.default}"
         },
         "type": "border"
@@ -4538,11 +4538,11 @@
         "type": "color"
       },
       "new": {
-        "value": "{palette.green.6}",
+        "value": "{palette.red.5}",
         "type": "color"
       },
       "hot": {
-        "value": "{palette.red.5}",
+        "value": "{palette.orange.6}",
         "type": "color"
       },
       "badge": {
@@ -4704,17 +4704,9 @@
           {
             "x": "0",
             "y": "0",
-            "blur": "4",
+            "blur": "32",
             "spread": "0",
-            "color": "{palette.black.3}",
-            "type": "dropShadow"
-          },
-          {
-            "x": "0",
-            "y": "12",
-            "blur": "20",
-            "spread": "0",
-            "color": "{palette.black.3}",
+            "color": "{palette.black.2}",
             "type": "dropShadow"
           }
         ],
