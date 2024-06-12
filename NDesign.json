@@ -4706,7 +4706,7 @@
             "y": "0",
             "blur": "32",
             "spread": "0",
-            "color": "{palette.black.2}",
+            "color": "{palette.black.3}",
             "type": "dropShadow"
           }
         ],
