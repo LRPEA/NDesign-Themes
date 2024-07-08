@@ -4301,7 +4301,7 @@
         "neutral": {
           "enabled": {
             "value": {
-              "color": "{border.normal.enabled}",
+              "color": "{palette.black.4}",
               "width": "{border-width.default}"
             },
             "type": "border"
